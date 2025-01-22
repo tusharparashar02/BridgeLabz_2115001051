@@ -5,6 +5,7 @@ This repository contains the daily progress and tasks completed as part of my C#
 ### January 19, 2025
 - Started with C#: Installed Visual Studio and set up the environment.
 - Learned Basics: Covered Hello, World!, variables, and data types.
+- Assignment: Completed an assignment on basic C# syntax and variable usage.
 ### January 20, 2025
 - History and Evolution: Learned about the history and evolution of C#.
 - Operators: Studied different types of operators in C#.
