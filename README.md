@@ -14,3 +14,5 @@ This repository contains the daily progress and tasks completed as part of my C#
 - Data Types: Learned about built-in C# data types and their usage.
 - Comments: Studied single-line (//) and multi-line (/* ... */) comments.
 - Naming Conventions: Practiced proper naming conventions for variables, methods, and classes.
+### January 22, 2025
+- Assignments: Completed two assignments on different topics to reinforce concepts learned so far.
