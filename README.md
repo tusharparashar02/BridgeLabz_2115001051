@@ -16,3 +16,5 @@ This repository contains the daily progress and tasks completed as part of my C#
 - Naming Conventions: Practiced proper naming conventions for variables, methods, and classes.
 ### January 22, 2025
 - Assignments: Completed two assignments on different topics to reinforce concepts learned so far.
+### January 23, 2025
+- Studied Control Statements, including Decision Making (if, if-else, switch), Loops (for, while, do-while, foreach), and Jump Statements (Break, Continue, Goto, Return, Throw).
