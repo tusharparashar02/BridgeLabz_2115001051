@@ -1,19 +1,14 @@
-# C# Learning Journey
-This repository contains the daily progress and tasks completed as part of my C# tutorial.
+# .NET Learning Journey
+This repository contains the daily progress and tasks completed as part of my .NET Training.
 
 # Progress Log
 ### January 19, 2025
-- Started with C#: Installed Visual Studio and set up the environment.
-- Learned Basics: Covered Hello, World!, variables, and data types.
+- Started with C#: Installed Visual Studio and set up the environment and Covered Hello, World!, variables, and data types.
 - Assignment: Completed an assignment on basic C# syntax and variable usage.
 ### January 20, 2025
-- History and Evolution: Learned about the history and evolution of C#.
-- Operators: Studied different types of operators in C#.
-- Statics and Fundamentals: Explored static members and fundamental concepts.
+- Learned about the history and evolution of C# and Studied different types of operators in C#, Explored static members and fundamental concepts.
 ### January 21, 2025
-- Data Types: Learned about built-in C# data types and their usage.
-- Comments: Studied single-line (//) and multi-line (/* ... */) comments.
-- Naming Conventions: Practiced proper naming conventions for variables, methods, and classes.
+- Learned about C# Data types and their usage, Comments and Naming Conventions for variables, methods, and classes.
 ### January 22, 2025
 - Assignments: Completed two assignments on different topics to reinforce concepts learned so far.
 ### January 23, 2025
@@ -23,4 +18,6 @@ This repository contains the daily progress and tasks completed as part of my C#
 - Studied C# Arrays, including their declaration, initialization, and usage.
 ### January 25, 2025
 - Learned about C# Multi-dimensional Arrays, focusing on 2D Arrays (Matrix).
-- Completed two assignments based on multi-dimensional arrays.
+- Assignments: Completed two assignments based on multi-dimensional arrays.
+### January 26, 2025
+- Reviewed Basics, Data Types, Variables, Control Statements, Operators, Loops, and Arrays to strengthen foundational knowledge.
