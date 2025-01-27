@@ -3,8 +3,7 @@ This repository contains the daily progress and tasks completed as part of my .N
 
 # Progress Log
 ### January 19, 2025
-- Started with C#: Installed Visual Studio and set up the environment and Covered Hello, World!, variables, and data types.
-- Assignment: Completed an assignment on basic C# syntax and variable usage.
+- Started with C#: Installed Visual Studio and set up the environment and Covered Hello, World!, variables, and data types. Also completed an assignment on basic C# syntax and variable usage.
 ### January 20, 2025
 - Learned about the history and evolution of C# and Studied different types of operators in C#, Explored static members and fundamental concepts.
 ### January 21, 2025
@@ -12,12 +11,12 @@ This repository contains the daily progress and tasks completed as part of my .N
 ### January 22, 2025
 - Assignments: Completed two assignments on different topics to reinforce concepts learned so far.
 ### January 23, 2025
-- Studied Control Statements, including Decision Making (if, if-else, switch), Loops (for, while, do-while, foreach), and Jump Statements (Break, Continue, Goto, Return, Throw).
-- Assignments: Completed three assignments on different topics to reinforce concepts learned so far.
+- Studied Control Statements, including Decision Making (if, if-else, switch), Loops (for, while, do-while, foreach), and Jump Statements (Break, Continue, Goto, Return, Throw). Also completed three assignments on different topics to reinforce concepts learned so far.
 ### January 24, 2025
 - Studied C# Arrays, including their declaration, initialization, and usage.
 ### January 25, 2025
-- Learned about C# Multi-dimensional Arrays, focusing on 2D Arrays (Matrix).
-- Assignments: Completed two assignments based on multi-dimensional arrays.
+- Learned about C# Multi-dimensional Arrays, focusing on 2D Arrays (Matrix) and also completed two assignments based on multi-dimensional arrays.
 ### January 26, 2025
 - Reviewed Basics, Data Types, Variables, Control Statements, Operators, Loops, and Arrays to strengthen foundational knowledge.
+### January 27, 2025
+Covered User-Defined Methods, recursion, static methods, .NET methods, Standard Library methods, and the System.Math class.
