@@ -19,4 +19,6 @@ This repository contains the daily progress and tasks completed as part of my .N
 ### January 26, 2025
 - Reviewed Basics, Data Types, Variables, Control Statements, Operators, Loops, and Arrays to strengthen foundational knowledge.
 ### January 27, 2025
-Covered User-Defined Methods, recursion, static methods, .NET methods, Standard Library methods, and the System.Math class.
+- Covered User-Defined Methods, recursion, static methods, .NET methods, Standard Library methods, and the System.Math class.
+### January 28, 2025
+- Practiced coding questions on C# fundamentals and completed three assignments on methods.
