@@ -22,3 +22,5 @@ This repository contains the daily progress and tasks completed as part of my .N
 - Covered User-Defined Methods, recursion, static methods, .NET methods, Standard Library methods, and the System.Math class.
 ### January 28, 2025
 - Practiced coding questions on C# fundamentals and completed three assignments on methods.
+### January 29, 2025
+- Today I will Cover Handling strings and common string functions in C#. Also Done One Assignment based on Strings.
