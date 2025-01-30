@@ -24,3 +24,5 @@ This repository contains the daily progress and tasks completed as part of my .N
 - Practiced coding questions on C# fundamentals and completed three assignments on methods.
 ### January 29, 2025
 - Today I will Cover Handling strings and common string functions in C#. Also Done One Assignment based on Strings.
+### January 30, 2025
+- Practice few problems on multidimentional array and strings.
