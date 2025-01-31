@@ -26,3 +26,5 @@ This repository contains the daily progress and tasks completed as part of my .N
 - Today I will Cover Handling strings and common string functions in C#. Also Done One Assignment based on Strings.
 ### January 30, 2025
 - Practice few problems on multidimentional array and strings.
+### January 31, 2025
+- Learn Procedural vs Object-oriented Programming Language, Class and Object.
