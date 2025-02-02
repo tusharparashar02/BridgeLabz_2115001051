@@ -28,3 +28,5 @@ This repository contains the daily progress and tasks completed as part of my .N
 - Practice few problems on multidimentional array and strings.
 ### January 31, 2025
 - Learn Procedural vs Object-oriented Programming Language, Class and Object.
+### Febraury 02, 2025
+- Learn C# Constructors, Instance vs. Class Variables, Access Modifiers Concepts also Completed Assignments on these.
