@@ -34,3 +34,5 @@ This repository contains the daily progress and tasks completed as part of my .N
 - Learn this, sealed, static key words and is operator also done Assignments on these.
 ### Febraury 06, 2025
 - Learn Object Oriented Design Principles also Completed Assignments on these concepts.
+### February 08, 2025
+- Learn Inheritance, Single Level Inheritance, Multilevel Inheritance, Hierarchical Inheritance, Key Features of Inheritance, Method Overriding, Constructor Inheritance in C#, Polymorphism and Inheritance, Access Modifiers and Inheritance
