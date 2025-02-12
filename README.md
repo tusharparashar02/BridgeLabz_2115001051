@@ -36,3 +36,7 @@ This repository contains the daily progress and tasks completed as part of my .N
 - Learn Object Oriented Design Principles also Completed Assignments on these concepts.
 ### February 08, 2025
 - Learn Inheritance, Single Level Inheritance, Multilevel Inheritance, Hierarchical Inheritance, Key Features of Inheritance, Method Overriding, Constructor Inheritance in C#, Polymorphism and Inheritance, Access Modifiers and Inheritance
+### February 10, 2025
+- submit Assignments on Encapsulation, Polymorphism, Interface and Abstract Class, now Done with OPPS concepts.
+### February 12, 2025
+- C# Data Structure and Linked List content and its assignments.
