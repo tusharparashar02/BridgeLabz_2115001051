@@ -40,3 +40,5 @@ This repository contains the daily progress and tasks completed as part of my .N
 - submit Assignments on Encapsulation, Polymorphism, Interface and Abstract Class, now Done with OPPS concepts.
 ### February 12, 2025
 - C# Data Structure and Linked List content and its assignments.
+### February 13, 2025
+- C# Stacks, Queues, Hash Maps & Hash Functions content and its assignments.
