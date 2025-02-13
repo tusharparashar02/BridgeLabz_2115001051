@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\4-DotNet_Assignments\\13-02-2025-Stacks-Queue-Assignments\\StackQueueAssignments\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02D226F4-EAD3-42FC-B53B-8AC0A085CFDB}|StackQueueAssignments\\StackQueueAssignments.csproj|d:\\4-dotnet_assignments\\13-02-2025-stacks-queue-assignments\\stackqueueassignments\\stackqueueassignments\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D226F4-EAD3-42FC-B53B-8AC0A085CFDB}|StackQueueAssignments\\StackQueueAssignments.csproj|solutionrelative:stackqueueassignments\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D226F4-EAD3-42FC-B53B-8AC0A085CFDB}|StackQueueAssignments\\StackQueueAssignments.csproj|d:\\4-dotnet_assignments\\13-02-2025-stacks-queue-assignments\\stackqueueassignments\\stackqueueassignments\\allsubarrays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D226F4-EAD3-42FC-B53B-8AC0A085CFDB}|StackQueueAssignments\\StackQueueAssignments.csproj|solutionrelative:stackqueueassignments\\allsubarrays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D226F4-EAD3-42FC-B53B-8AC0A085CFDB}|StackQueueAssignments\\StackQueueAssignments.csproj|d:\\4-dotnet_assignments\\13-02-2025-stacks-queue-assignments\\stackqueueassignments\\stackqueueassignments\\implementacustomhashmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D226F4-EAD3-42FC-B53B-8AC0A085CFDB}|StackQueueAssignments\\StackQueueAssignments.csproj|solutionrelative:stackqueueassignments\\implementacustomhashmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D226F4-EAD3-42FC-B53B-8AC0A085CFDB}|StackQueueAssignments\\StackQueueAssignments.csproj|d:\\4-dotnet_assignments\\13-02-2025-stacks-queue-assignments\\stackqueueassignments\\stackqueueassignments\\twosumproblem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D226F4-EAD3-42FC-B53B-8AC0A085CFDB}|StackQueueAssignments\\StackQueueAssignments.csproj|solutionrelative:stackqueueassignments\\twosumproblem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D226F4-EAD3-42FC-B53B-8AC0A085CFDB}|StackQueueAssignments\\StackQueueAssignments.csproj|d:\\4-dotnet_assignments\\13-02-2025-stacks-queue-assignments\\stackqueueassignments\\stackqueueassignments\\longestconsecutivesequence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D226F4-EAD3-42FC-B53B-8AC0A085CFDB}|StackQueueAssignments\\StackQueueAssignments.csproj|solutionrelative:stackqueueassignments\\longestconsecutivesequence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D226F4-EAD3-42FC-B53B-8AC0A085CFDB}|StackQueueAssignments\\StackQueueAssignments.csproj|d:\\4-dotnet_assignments\\13-02-2025-stacks-queue-assignments\\stackqueueassignments\\stackqueueassignments\\pairwithgivensum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D226F4-EAD3-42FC-B53B-8AC0A085CFDB}|StackQueueAssignments\\StackQueueAssignments.csproj|solutionrelative:stackqueueassignments\\pairwithgivensum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D226F4-EAD3-42FC-B53B-8AC0A085CFDB}|StackQueueAssignments\\StackQueueAssignments.csproj|d:\\4-dotnet_assignments\\13-02-2025-stacks-queue-assignments\\stackqueueassignments\\stackqueueassignments\\stockspan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D226F4-EAD3-42FC-B53B-8AC0A085CFDB}|StackQueueAssignments\\StackQueueAssignments.csproj|solutionrelative:stackqueueassignments\\stockspan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D226F4-EAD3-42FC-B53B-8AC0A085CFDB}|StackQueueAssignments\\StackQueueAssignments.csproj|d:\\4-dotnet_assignments\\13-02-2025-stacks-queue-assignments\\stackqueueassignments\\stackqueueassignments\\sortastackusingrecursion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D226F4-EAD3-42FC-B53B-8AC0A085CFDB}|StackQueueAssignments\\StackQueueAssignments.csproj|solutionrelative:stackqueueassignments\\sortastackusingrecursion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D226F4-EAD3-42FC-B53B-8AC0A085CFDB}|StackQueueAssignments\\StackQueueAssignments.csproj|d:\\4-dotnet_assignments\\13-02-2025-stacks-queue-assignments\\stackqueueassignments\\stackqueueassignments\\implementqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D226F4-EAD3-42FC-B53B-8AC0A085CFDB}|StackQueueAssignments\\StackQueueAssignments.csproj|solutionrelative:stackqueueassignments\\implementqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D226F4-EAD3-42FC-B53B-8AC0A085CFDB}|StackQueueAssignments\\StackQueueAssignments.csproj|d:\\4-dotnet_assignments\\13-02-2025-stacks-queue-assignments\\stackqueueassignments\\stackqueueassignments\\slidingwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D226F4-EAD3-42FC-B53B-8AC0A085CFDB}|StackQueueAssignments\\StackQueueAssignments.csproj|solutionrelative:stackqueueassignments\\slidingwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02D226F4-EAD3-42FC-B53B-8AC0A085CFDB}|StackQueueAssignments\\StackQueueAssignments.csproj|d:\\4-dotnet_assignments\\13-02-2025-stacks-queue-assignments\\stackqueueassignments\\stackqueueassignments\\circulartour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D226F4-EAD3-42FC-B53B-8AC0A085CFDB}|StackQueueAssignments\\StackQueueAssignments.csproj|solutionrelative:stackqueueassignments\\circulartour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TwoSumProblem.cs",
+              "DocumentMoniker": "D:\\4-DotNet_Assignments\\13-02-2025-Stacks-Queue-Assignments\\StackQueueAssignments\\StackQueueAssignments\\TwoSumProblem.cs",
+              "RelativeDocumentMoniker": "StackQueueAssignments\\TwoSumProblem.cs",
+              "ToolTip": "D:\\4-DotNet_Assignments\\13-02-2025-Stacks-Queue-Assignments\\StackQueueAssignments\\StackQueueAssignments\\TwoSumProblem.cs",
+              "RelativeToolTip": "StackQueueAssignments\\TwoSumProblem.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvxcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T17:08:57.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ImplementaCustomHashMap.cs",
+              "DocumentMoniker": "D:\\4-DotNet_Assignments\\13-02-2025-Stacks-Queue-Assignments\\StackQueueAssignments\\StackQueueAssignments\\ImplementaCustomHashMap.cs",
+              "RelativeDocumentMoniker": "StackQueueAssignments\\ImplementaCustomHashMap.cs",
+              "ToolTip": "D:\\4-DotNet_Assignments\\13-02-2025-Stacks-Queue-Assignments\\StackQueueAssignments\\StackQueueAssignments\\ImplementaCustomHashMap.cs",
+              "RelativeToolTip": "StackQueueAssignments\\ImplementaCustomHashMap.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAADwv1gAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T17:08:16.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LongestConsecutiveSequence.cs",
+              "DocumentMoniker": "D:\\4-DotNet_Assignments\\13-02-2025-Stacks-Queue-Assignments\\StackQueueAssignments\\StackQueueAssignments\\LongestConsecutiveSequence.cs",
+              "RelativeDocumentMoniker": "StackQueueAssignments\\LongestConsecutiveSequence.cs",
+              "ToolTip": "D:\\4-DotNet_Assignments\\13-02-2025-Stacks-Queue-Assignments\\StackQueueAssignments\\StackQueueAssignments\\LongestConsecutiveSequence.cs",
+              "RelativeToolTip": "StackQueueAssignments\\LongestConsecutiveSequence.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAUwCAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T17:06:35.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PairwithGivenSum.cs",
+              "DocumentMoniker": "D:\\4-DotNet_Assignments\\13-02-2025-Stacks-Queue-Assignments\\StackQueueAssignments\\StackQueueAssignments\\PairwithGivenSum.cs",
+              "RelativeDocumentMoniker": "StackQueueAssignments\\PairwithGivenSum.cs",
+              "ToolTip": "D:\\4-DotNet_Assignments\\13-02-2025-Stacks-Queue-Assignments\\StackQueueAssignments\\StackQueueAssignments\\PairwithGivenSum.cs",
+              "RelativeToolTip": "StackQueueAssignments\\PairwithGivenSum.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T17:05:14.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AllSubarrays.cs",
+              "DocumentMoniker": "D:\\4-DotNet_Assignments\\13-02-2025-Stacks-Queue-Assignments\\StackQueueAssignments\\StackQueueAssignments\\AllSubarrays.cs",
+              "RelativeDocumentMoniker": "StackQueueAssignments\\AllSubarrays.cs",
+              "ToolTip": "D:\\4-DotNet_Assignments\\13-02-2025-Stacks-Queue-Assignments\\StackQueueAssignments\\StackQueueAssignments\\AllSubarrays.cs",
+              "RelativeToolTip": "StackQueueAssignments\\AllSubarrays.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T17:01:17.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\4-DotNet_Assignments\\13-02-2025-Stacks-Queue-Assignments\\StackQueueAssignments\\StackQueueAssignments\\Program.cs",
+              "RelativeDocumentMoniker": "StackQueueAssignments\\Program.cs",
+              "ToolTip": "D:\\4-DotNet_Assignments\\13-02-2025-Stacks-Queue-Assignments\\StackQueueAssignments\\StackQueueAssignments\\Program.cs",
+              "RelativeToolTip": "StackQueueAssignments\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T16:33:46.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SortaStackUsingRecursion.cs",
+              "DocumentMoniker": "D:\\4-DotNet_Assignments\\13-02-2025-Stacks-Queue-Assignments\\StackQueueAssignments\\StackQueueAssignments\\SortaStackUsingRecursion.cs",
+              "RelativeDocumentMoniker": "StackQueueAssignments\\SortaStackUsingRecursion.cs",
+              "ToolTip": "D:\\4-DotNet_Assignments\\13-02-2025-Stacks-Queue-Assignments\\StackQueueAssignments\\StackQueueAssignments\\SortaStackUsingRecursion.cs",
+              "RelativeToolTip": "StackQueueAssignments\\SortaStackUsingRecursion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T16:53:44.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CircularTour.cs",
+              "DocumentMoniker": "D:\\4-DotNet_Assignments\\13-02-2025-Stacks-Queue-Assignments\\StackQueueAssignments\\StackQueueAssignments\\CircularTour.cs",
+              "RelativeDocumentMoniker": "StackQueueAssignments\\CircularTour.cs",
+              "ToolTip": "D:\\4-DotNet_Assignments\\13-02-2025-Stacks-Queue-Assignments\\StackQueueAssignments\\StackQueueAssignments\\CircularTour.cs",
+              "RelativeToolTip": "StackQueueAssignments\\CircularTour.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAUwGAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T16:49:31.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SlidingWindow.cs",
+              "DocumentMoniker": "D:\\4-DotNet_Assignments\\13-02-2025-Stacks-Queue-Assignments\\StackQueueAssignments\\StackQueueAssignments\\SlidingWindow.cs",
+              "RelativeDocumentMoniker": "StackQueueAssignments\\SlidingWindow.cs",
+              "ToolTip": "D:\\4-DotNet_Assignments\\13-02-2025-Stacks-Queue-Assignments\\StackQueueAssignments\\StackQueueAssignments\\SlidingWindow.cs",
+              "RelativeToolTip": "StackQueueAssignments\\SlidingWindow.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAUwHEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T16:46:12.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StockSpan.cs",
+              "DocumentMoniker": "D:\\4-DotNet_Assignments\\13-02-2025-Stacks-Queue-Assignments\\StackQueueAssignments\\StackQueueAssignments\\StockSpan.cs",
+              "RelativeDocumentMoniker": "StackQueueAssignments\\StockSpan.cs",
+              "ToolTip": "D:\\4-DotNet_Assignments\\13-02-2025-Stacks-Queue-Assignments\\StackQueueAssignments\\StackQueueAssignments\\StockSpan.cs",
+              "RelativeToolTip": "StackQueueAssignments\\StockSpan.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAA0wCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T16:41:33.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ImplementQueue.cs",
+              "DocumentMoniker": "D:\\4-DotNet_Assignments\\13-02-2025-Stacks-Queue-Assignments\\StackQueueAssignments\\StackQueueAssignments\\ImplementQueue.cs",
+              "RelativeDocumentMoniker": "StackQueueAssignments\\ImplementQueue.cs",
+              "ToolTip": "D:\\4-DotNet_Assignments\\13-02-2025-Stacks-Queue-Assignments\\StackQueueAssignments\\StackQueueAssignments\\ImplementQueue.cs",
+              "RelativeToolTip": "StackQueueAssignments\\ImplementQueue.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAIwJUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T16:34:50.637Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
