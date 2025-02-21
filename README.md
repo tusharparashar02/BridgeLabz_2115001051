@@ -48,3 +48,11 @@ This repository contains the daily progress and tasks completed as part of my .N
 - Linear Search and Binary Search, StringBuilder, StringBuffer, BufferedReader, FileReader, InputStreamReader
 ### February 17, 2025
 - Algorithm's Runtime Analysis & Big-O Notation
+### February 18, 2025
+- Introduction to Generics in C#
+### February 19, 2025
+- Overview of Collections Framework, Real-World Use Cases and Best Practices.
+### February 20, 2025
+- C# I/O Streams,Types of Streams.
+### February 21, 2025
+- Exceptions, Types of Exceptions, Handling Exceptions. 
