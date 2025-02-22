@@ -56,3 +56,5 @@ This repository contains the daily progress and tasks completed as part of my .N
 - C# I/O Streams,Types of Streams.
 ### February 21, 2025
 - Exceptions, Types of Exceptions, Handling Exceptions. 
+### February 22, 2025
+- Regex & NUnit Testing.
