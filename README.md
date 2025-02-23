@@ -58,3 +58,5 @@ This repository contains the daily progress and tasks completed as part of my .N
 - Exceptions, Types of Exceptions, Handling Exceptions. 
 ### February 22, 2025
 - Regex & NUnit Testing.
+### February 23, 2025
+- Cover Introduction to Annotations and Reflection in c#.
