@@ -1,0 +1,2 @@
+D:\3-DotNet_Training_Assignments\February\23-02-2025-Reflection\ReflectionProject\ReflectionProject\obj\Debug\ReflectionProject.csproj.AssemblyReference.cache
+D:\3-DotNet_Training_Assignments\February\23-02-2025-Reflection\ReflectionProject\ReflectionProject\obj\Debug\ReflectionProject.csproj.CoreCompileInputs.cache

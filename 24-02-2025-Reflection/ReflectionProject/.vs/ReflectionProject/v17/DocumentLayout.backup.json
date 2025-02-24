@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\3-DotNet_Training_Assignments\\February\\23-02-2025-Reflection\\ReflectionProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{428F7DE5-89D2-445E-9FC1-036C40635153}|ReflectionProject\\ReflectionProject.csproj|d:\\3-dotnet_training_assignments\\february\\23-02-2025-reflection\\reflectionproject\\reflectionproject\\accessandmodifystaticfields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{428F7DE5-89D2-445E-9FC1-036C40635153}|ReflectionProject\\ReflectionProject.csproj|solutionrelative:reflectionproject\\accessandmodifystaticfields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428F7DE5-89D2-445E-9FC1-036C40635153}|ReflectionProject\\ReflectionProject.csproj|d:\\3-dotnet_training_assignments\\february\\23-02-2025-reflection\\reflectionproject\\reflectionproject\\retrieveattributesatruntime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{428F7DE5-89D2-445E-9FC1-036C40635153}|ReflectionProject\\ReflectionProject.csproj|solutionrelative:reflectionproject\\retrieveattributesatruntime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428F7DE5-89D2-445E-9FC1-036C40635153}|ReflectionProject\\ReflectionProject.csproj|d:\\3-dotnet_training_assignments\\february\\23-02-2025-reflection\\reflectionproject\\reflectionproject\\dynamicmethodinvocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{428F7DE5-89D2-445E-9FC1-036C40635153}|ReflectionProject\\ReflectionProject.csproj|solutionrelative:reflectionproject\\dynamicmethodinvocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428F7DE5-89D2-445E-9FC1-036C40635153}|ReflectionProject\\ReflectionProject.csproj|d:\\3-dotnet_training_assignments\\february\\23-02-2025-reflection\\reflectionproject\\reflectionproject\\dynamicallycreateobjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{428F7DE5-89D2-445E-9FC1-036C40635153}|ReflectionProject\\ReflectionProject.csproj|solutionrelative:reflectionproject\\dynamicallycreateobjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428F7DE5-89D2-445E-9FC1-036C40635153}|ReflectionProject\\ReflectionProject.csproj|d:\\3-dotnet_training_assignments\\february\\23-02-2025-reflection\\reflectionproject\\reflectionproject\\getclassinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{428F7DE5-89D2-445E-9FC1-036C40635153}|ReflectionProject\\ReflectionProject.csproj|solutionrelative:reflectionproject\\getclassinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428F7DE5-89D2-445E-9FC1-036C40635153}|ReflectionProject\\ReflectionProject.csproj|d:\\3-dotnet_training_assignments\\february\\23-02-2025-reflection\\reflectionproject\\reflectionproject\\accessprivatefield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{428F7DE5-89D2-445E-9FC1-036C40635153}|ReflectionProject\\ReflectionProject.csproj|solutionrelative:reflectionproject\\accessprivatefield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428F7DE5-89D2-445E-9FC1-036C40635153}|ReflectionProject\\ReflectionProject.csproj|d:\\3-dotnet_training_assignments\\february\\23-02-2025-reflection\\reflectionproject\\reflectionproject\\invokeprivatemethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{428F7DE5-89D2-445E-9FC1-036C40635153}|ReflectionProject\\ReflectionProject.csproj|solutionrelative:reflectionproject\\invokeprivatemethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428F7DE5-89D2-445E-9FC1-036C40635153}|ReflectionProject\\ReflectionProject.csproj|D:\\3-DotNet_Training_Assignments\\February\\23-02-2025-Reflection\\ReflectionProject\\reflectionproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{428F7DE5-89D2-445E-9FC1-036C40635153}|ReflectionProject\\ReflectionProject.csproj|solutionrelative:reflectionproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccessandModifyStaticFields.cs",
+              "DocumentMoniker": "D:\\3-DotNet_Training_Assignments\\February\\23-02-2025-Reflection\\ReflectionProject\\ReflectionProject\\AccessandModifyStaticFields.cs",
+              "RelativeDocumentMoniker": "ReflectionProject\\AccessandModifyStaticFields.cs",
+              "ToolTip": "D:\\3-DotNet_Training_Assignments\\February\\23-02-2025-Reflection\\ReflectionProject\\ReflectionProject\\AccessandModifyStaticFields.cs",
+              "RelativeToolTip": "ReflectionProject\\AccessandModifyStaticFields.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T16:35:04.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RetrieveAttributesatRuntime.cs",
+              "DocumentMoniker": "D:\\3-DotNet_Training_Assignments\\February\\23-02-2025-Reflection\\ReflectionProject\\ReflectionProject\\RetrieveAttributesatRuntime.cs",
+              "RelativeDocumentMoniker": "ReflectionProject\\RetrieveAttributesatRuntime.cs",
+              "ToolTip": "D:\\3-DotNet_Training_Assignments\\February\\23-02-2025-Reflection\\ReflectionProject\\ReflectionProject\\RetrieveAttributesatRuntime.cs",
+              "RelativeToolTip": "ReflectionProject\\RetrieveAttributesatRuntime.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T16:33:18.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DynamicMethodInvocation.cs",
+              "DocumentMoniker": "D:\\3-DotNet_Training_Assignments\\February\\23-02-2025-Reflection\\ReflectionProject\\ReflectionProject\\DynamicMethodInvocation.cs",
+              "RelativeDocumentMoniker": "ReflectionProject\\DynamicMethodInvocation.cs",
+              "ToolTip": "D:\\3-DotNet_Training_Assignments\\February\\23-02-2025-Reflection\\ReflectionProject\\ReflectionProject\\DynamicMethodInvocation.cs",
+              "RelativeToolTip": "ReflectionProject\\DynamicMethodInvocation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T16:30:27.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DynamicallyCreateObjects.cs",
+              "DocumentMoniker": "D:\\3-DotNet_Training_Assignments\\February\\23-02-2025-Reflection\\ReflectionProject\\ReflectionProject\\DynamicallyCreateObjects.cs",
+              "RelativeDocumentMoniker": "ReflectionProject\\DynamicallyCreateObjects.cs",
+              "ToolTip": "D:\\3-DotNet_Training_Assignments\\February\\23-02-2025-Reflection\\ReflectionProject\\ReflectionProject\\DynamicallyCreateObjects.cs",
+              "RelativeToolTip": "ReflectionProject\\DynamicallyCreateObjects.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T16:28:39.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InvokePrivateMethod.cs",
+              "DocumentMoniker": "D:\\3-DotNet_Training_Assignments\\February\\23-02-2025-Reflection\\ReflectionProject\\ReflectionProject\\InvokePrivateMethod.cs",
+              "RelativeDocumentMoniker": "ReflectionProject\\InvokePrivateMethod.cs",
+              "ToolTip": "D:\\3-DotNet_Training_Assignments\\February\\23-02-2025-Reflection\\ReflectionProject\\ReflectionProject\\InvokePrivateMethod.cs",
+              "RelativeToolTip": "ReflectionProject\\InvokePrivateMethod.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T16:24:06.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccessPrivateField.cs",
+              "DocumentMoniker": "D:\\3-DotNet_Training_Assignments\\February\\23-02-2025-Reflection\\ReflectionProject\\ReflectionProject\\AccessPrivateField.cs",
+              "RelativeDocumentMoniker": "ReflectionProject\\AccessPrivateField.cs",
+              "ToolTip": "D:\\3-DotNet_Training_Assignments\\February\\23-02-2025-Reflection\\ReflectionProject\\ReflectionProject\\AccessPrivateField.cs",
+              "RelativeToolTip": "ReflectionProject\\AccessPrivateField.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T16:22:13.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetClassInformation.cs",
+              "DocumentMoniker": "D:\\3-DotNet_Training_Assignments\\February\\23-02-2025-Reflection\\ReflectionProject\\ReflectionProject\\GetClassInformation.cs",
+              "RelativeDocumentMoniker": "ReflectionProject\\GetClassInformation.cs",
+              "ToolTip": "D:\\3-DotNet_Training_Assignments\\February\\23-02-2025-Reflection\\ReflectionProject\\ReflectionProject\\GetClassInformation.cs",
+              "RelativeToolTip": "ReflectionProject\\GetClassInformation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T14:44:23.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\3-DotNet_Training_Assignments\\February\\23-02-2025-Reflection\\ReflectionProject\\ReflectionProject\\Program.cs",
+              "RelativeDocumentMoniker": "ReflectionProject\\Program.cs",
+              "ToolTip": "D:\\3-DotNet_Training_Assignments\\February\\23-02-2025-Reflection\\ReflectionProject\\ReflectionProject\\Program.cs",
+              "RelativeToolTip": "ReflectionProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T14:44:00.866Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
