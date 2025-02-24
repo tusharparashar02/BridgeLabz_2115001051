@@ -60,3 +60,5 @@ This repository contains the daily progress and tasks completed as part of my .N
 - Regex & NUnit Testing.
 ### February 23, 2025
 - Cover Introduction to Annotations and Reflection in c#.
+### February 24, 2025
+- Doing Assignments-Practice Questions on Annotations and Reflections in C#.
