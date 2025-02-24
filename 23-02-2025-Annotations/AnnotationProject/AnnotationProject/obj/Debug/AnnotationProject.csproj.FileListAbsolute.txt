@@ -1,0 +1,7 @@
+D:\3-DotNet_Training_Assignments\February\23-02-2025-Annotations\AnnotationProject\AnnotationProject\bin\Debug\AnnotationProject.exe.config
+D:\3-DotNet_Training_Assignments\February\23-02-2025-Annotations\AnnotationProject\AnnotationProject\bin\Debug\AnnotationProject.exe
+D:\3-DotNet_Training_Assignments\February\23-02-2025-Annotations\AnnotationProject\AnnotationProject\bin\Debug\AnnotationProject.pdb
+D:\3-DotNet_Training_Assignments\February\23-02-2025-Annotations\AnnotationProject\AnnotationProject\obj\Debug\AnnotationProject.csproj.AssemblyReference.cache
+D:\3-DotNet_Training_Assignments\February\23-02-2025-Annotations\AnnotationProject\AnnotationProject\obj\Debug\AnnotationProject.csproj.CoreCompileInputs.cache
+D:\3-DotNet_Training_Assignments\February\23-02-2025-Annotations\AnnotationProject\AnnotationProject\obj\Debug\AnnotationProject.exe
+D:\3-DotNet_Training_Assignments\February\23-02-2025-Annotations\AnnotationProject\AnnotationProject\obj\Debug\AnnotationProject.pdb

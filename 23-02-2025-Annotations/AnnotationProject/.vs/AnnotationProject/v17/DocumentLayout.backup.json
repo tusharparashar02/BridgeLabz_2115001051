@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\3-DotNet_Training_Assignments\\February\\23-02-2025-Annotations\\AnnotationProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67FBE927-6AE9-486F-BB12-2739DF5F4F40}|AnnotationProject\\AnnotationProject.csproj|d:\\3-dotnet_training_assignments\\february\\23-02-2025-annotations\\annotationproject\\annotationproject\\attributeforpendingtasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67FBE927-6AE9-486F-BB12-2739DF5F4F40}|AnnotationProject\\AnnotationProject.csproj|solutionrelative:annotationproject\\attributeforpendingtasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67FBE927-6AE9-486F-BB12-2739DF5F4F40}|AnnotationProject\\AnnotationProject.csproj|d:\\3-dotnet_training_assignments\\february\\23-02-2025-annotations\\annotationproject\\annotationproject\\attributetomarkimportant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67FBE927-6AE9-486F-BB12-2739DF5F4F40}|AnnotationProject\\AnnotationProject.csproj|solutionrelative:annotationproject\\attributetomarkimportant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67FBE927-6AE9-486F-BB12-2739DF5F4F40}|AnnotationProject\\AnnotationProject.csproj|d:\\3-dotnet_training_assignments\\february\\23-02-2025-annotations\\annotationproject\\annotationproject\\bugtracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67FBE927-6AE9-486F-BB12-2739DF5F4F40}|AnnotationProject\\AnnotationProject.csproj|solutionrelative:annotationproject\\bugtracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67FBE927-6AE9-486F-BB12-2739DF5F4F40}|AnnotationProject\\AnnotationProject.csproj|D:\\3-DotNet_Training_Assignments\\February\\23-02-2025-Annotations\\AnnotationProject\\AnnotationProject\\TaskManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67FBE927-6AE9-486F-BB12-2739DF5F4F40}|AnnotationProject\\AnnotationProject.csproj|solutionrelative:AnnotationProject\\TaskManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67FBE927-6AE9-486F-BB12-2739DF5F4F40}|AnnotationProject\\AnnotationProject.csproj|D:\\3-DotNet_Training_Assignments\\February\\23-02-2025-Annotations\\AnnotationProject\\AnnotationProject\\SuppressWarnings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67FBE927-6AE9-486F-BB12-2739DF5F4F40}|AnnotationProject\\AnnotationProject.csproj|solutionrelative:AnnotationProject\\SuppressWarnings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67FBE927-6AE9-486F-BB12-2739DF5F4F40}|AnnotationProject\\AnnotationProject.csproj|D:\\3-DotNet_Training_Assignments\\February\\23-02-2025-Annotations\\AnnotationProject\\AnnotationProject\\LegacyAPI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67FBE927-6AE9-486F-BB12-2739DF5F4F40}|AnnotationProject\\AnnotationProject.csproj|solutionrelative:AnnotationProject\\LegacyAPI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67FBE927-6AE9-486F-BB12-2739DF5F4F40}|AnnotationProject\\AnnotationProject.csproj|D:\\3-DotNet_Training_Assignments\\February\\23-02-2025-Annotations\\AnnotationProject\\AnnotationProject\\Animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67FBE927-6AE9-486F-BB12-2739DF5F4F40}|AnnotationProject\\AnnotationProject.csproj|solutionrelative:AnnotationProject\\Animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67FBE927-6AE9-486F-BB12-2739DF5F4F40}|AnnotationProject\\AnnotationProject.csproj|D:\\3-DotNet_Training_Assignments\\February\\23-02-2025-Annotations\\AnnotationProject\\AnnotationProject\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67FBE927-6AE9-486F-BB12-2739DF5F4F40}|AnnotationProject\\AnnotationProject.csproj|solutionrelative:AnnotationProject\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AttributeforPendingTasks.cs",
+              "DocumentMoniker": "D:\\3-DotNet_Training_Assignments\\February\\23-02-2025-Annotations\\AnnotationProject\\AnnotationProject\\AttributeforPendingTasks.cs",
+              "RelativeDocumentMoniker": "AnnotationProject\\AttributeforPendingTasks.cs",
+              "ToolTip": "D:\\3-DotNet_Training_Assignments\\February\\23-02-2025-Annotations\\AnnotationProject\\AnnotationProject\\AttributeforPendingTasks.cs",
+              "RelativeToolTip": "AnnotationProject\\AttributeforPendingTasks.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAswCQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T15:29:23.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AttributetoMarkImportant.cs",
+              "DocumentMoniker": "D:\\3-DotNet_Training_Assignments\\February\\23-02-2025-Annotations\\AnnotationProject\\AnnotationProject\\AttributetoMarkImportant.cs",
+              "RelativeDocumentMoniker": "AnnotationProject\\AttributetoMarkImportant.cs",
+              "ToolTip": "D:\\3-DotNet_Training_Assignments\\February\\23-02-2025-Annotations\\AnnotationProject\\AnnotationProject\\AttributetoMarkImportant.cs",
+              "RelativeToolTip": "AnnotationProject\\AttributetoMarkImportant.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAowCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T15:21:59.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BugTracker.cs",
+              "DocumentMoniker": "D:\\3-DotNet_Training_Assignments\\February\\23-02-2025-Annotations\\AnnotationProject\\AnnotationProject\\BugTracker.cs",
+              "RelativeDocumentMoniker": "AnnotationProject\\BugTracker.cs",
+              "ToolTip": "D:\\3-DotNet_Training_Assignments\\February\\23-02-2025-Annotations\\AnnotationProject\\AnnotationProject\\BugTracker.cs",
+              "RelativeToolTip": "AnnotationProject\\BugTracker.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAqwB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T14:28:32.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskManager.cs",
+              "DocumentMoniker": "D:\\3-DotNet_Training_Assignments\\February\\23-02-2025-Annotations\\AnnotationProject\\AnnotationProject\\TaskManager.cs",
+              "RelativeDocumentMoniker": "AnnotationProject\\TaskManager.cs",
+              "ToolTip": "D:\\3-DotNet_Training_Assignments\\February\\23-02-2025-Annotations\\AnnotationProject\\AnnotationProject\\TaskManager.cs",
+              "RelativeToolTip": "AnnotationProject\\TaskManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T14:10:04.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SuppressWarnings.cs",
+              "DocumentMoniker": "D:\\3-DotNet_Training_Assignments\\February\\23-02-2025-Annotations\\AnnotationProject\\AnnotationProject\\SuppressWarnings.cs",
+              "RelativeDocumentMoniker": "AnnotationProject\\SuppressWarnings.cs",
+              "ToolTip": "D:\\3-DotNet_Training_Assignments\\February\\23-02-2025-Annotations\\AnnotationProject\\AnnotationProject\\SuppressWarnings.cs",
+              "RelativeToolTip": "AnnotationProject\\SuppressWarnings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T13:55:12.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LegacyAPI.cs",
+              "DocumentMoniker": "D:\\3-DotNet_Training_Assignments\\February\\23-02-2025-Annotations\\AnnotationProject\\AnnotationProject\\LegacyAPI.cs",
+              "RelativeDocumentMoniker": "AnnotationProject\\LegacyAPI.cs",
+              "ToolTip": "D:\\3-DotNet_Training_Assignments\\February\\23-02-2025-Annotations\\AnnotationProject\\AnnotationProject\\LegacyAPI.cs",
+              "RelativeToolTip": "AnnotationProject\\LegacyAPI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T13:49:44.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "D:\\3-DotNet_Training_Assignments\\February\\23-02-2025-Annotations\\AnnotationProject\\AnnotationProject\\Animal.cs",
+              "RelativeDocumentMoniker": "AnnotationProject\\Animal.cs",
+              "ToolTip": "D:\\3-DotNet_Training_Assignments\\February\\23-02-2025-Annotations\\AnnotationProject\\AnnotationProject\\Animal.cs",
+              "RelativeToolTip": "AnnotationProject\\Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T13:47:41.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\3-DotNet_Training_Assignments\\February\\23-02-2025-Annotations\\AnnotationProject\\AnnotationProject\\Program.cs",
+              "RelativeDocumentMoniker": "AnnotationProject\\Program.cs",
+              "ToolTip": "D:\\3-DotNet_Training_Assignments\\February\\23-02-2025-Annotations\\AnnotationProject\\AnnotationProject\\Program.cs",
+              "RelativeToolTip": "AnnotationProject\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T13:46:14.739Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
