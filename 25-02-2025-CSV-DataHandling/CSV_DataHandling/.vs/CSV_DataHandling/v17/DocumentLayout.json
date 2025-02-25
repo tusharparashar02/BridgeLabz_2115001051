@@ -1,0 +1,302 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\3-DotNet_Training_Assignments\\February\\25-02-2025-CSV-DataHandling\\CSV_DataHandling\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{588929CC-9168-4519-9FE5-515110C9209B}|CSV_DataHandling\\CSV_DataHandling.csproj|d:\\3-dotnet_training_assignments\\february\\25-02-2025-csv-datahandling\\csv_datahandling\\csv_datahandling\\encryptanddecryptcsvdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588929CC-9168-4519-9FE5-515110C9209B}|CSV_DataHandling\\CSV_DataHandling.csproj|solutionrelative:csv_datahandling\\encryptanddecryptcsvdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588929CC-9168-4519-9FE5-515110C9209B}|CSV_DataHandling\\CSV_DataHandling.csproj|d:\\3-dotnet_training_assignments\\february\\25-02-2025-csv-datahandling\\csv_datahandling\\csv_datahandling\\convertjsontocsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588929CC-9168-4519-9FE5-515110C9209B}|CSV_DataHandling\\CSV_DataHandling.csproj|solutionrelative:csv_datahandling\\convertjsontocsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588929CC-9168-4519-9FE5-515110C9209B}|CSV_DataHandling\\CSV_DataHandling.csproj|d:\\3-dotnet_training_assignments\\february\\25-02-2025-csv-datahandling\\csv_datahandling\\csv_datahandling\\csvreportfromdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588929CC-9168-4519-9FE5-515110C9209B}|CSV_DataHandling\\CSV_DataHandling.csproj|solutionrelative:csv_datahandling\\csvreportfromdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588929CC-9168-4519-9FE5-515110C9209B}|CSV_DataHandling\\CSV_DataHandling.csproj|d:\\3-dotnet_training_assignments\\february\\25-02-2025-csv-datahandling\\csv_datahandling\\csv_datahandling\\detectduplicatesincsvfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588929CC-9168-4519-9FE5-515110C9209B}|CSV_DataHandling\\CSV_DataHandling.csproj|solutionrelative:csv_datahandling\\detectduplicatesincsvfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588929CC-9168-4519-9FE5-515110C9209B}|CSV_DataHandling\\CSV_DataHandling.csproj|d:\\3-dotnet_training_assignments\\february\\25-02-2025-csv-datahandling\\csv_datahandling\\csv_datahandling\\readlargecsvfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588929CC-9168-4519-9FE5-515110C9209B}|CSV_DataHandling\\CSV_DataHandling.csproj|solutionrelative:csv_datahandling\\readlargecsvfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588929CC-9168-4519-9FE5-515110C9209B}|CSV_DataHandling\\CSV_DataHandling.csproj|d:\\3-dotnet_training_assignments\\february\\25-02-2025-csv-datahandling\\csv_datahandling\\csv_datahandling\\mergetwocsvfiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588929CC-9168-4519-9FE5-515110C9209B}|CSV_DataHandling\\CSV_DataHandling.csproj|solutionrelative:csv_datahandling\\mergetwocsvfiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588929CC-9168-4519-9FE5-515110C9209B}|CSV_DataHandling\\CSV_DataHandling.csproj|d:\\3-dotnet_training_assignments\\february\\25-02-2025-csv-datahandling\\csv_datahandling\\csv_datahandling\\csvdataintojavaobjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588929CC-9168-4519-9FE5-515110C9209B}|CSV_DataHandling\\CSV_DataHandling.csproj|solutionrelative:csv_datahandling\\csvdataintojavaobjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588929CC-9168-4519-9FE5-515110C9209B}|CSV_DataHandling\\CSV_DataHandling.csproj|d:\\3-dotnet_training_assignments\\february\\25-02-2025-csv-datahandling\\csv_datahandling\\csv_datahandling\\validatecsvdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588929CC-9168-4519-9FE5-515110C9209B}|CSV_DataHandling\\CSV_DataHandling.csproj|solutionrelative:csv_datahandling\\validatecsvdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588929CC-9168-4519-9FE5-515110C9209B}|CSV_DataHandling\\CSV_DataHandling.csproj|d:\\3-dotnet_training_assignments\\february\\25-02-2025-csv-datahandling\\csv_datahandling\\csv_datahandling\\sortcsvrecordsbycolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588929CC-9168-4519-9FE5-515110C9209B}|CSV_DataHandling\\CSV_DataHandling.csproj|solutionrelative:csv_datahandling\\sortcsvrecordsbycolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588929CC-9168-4519-9FE5-515110C9209B}|CSV_DataHandling\\CSV_DataHandling.csproj|d:\\3-dotnet_training_assignments\\february\\25-02-2025-csv-datahandling\\csv_datahandling\\csv_datahandling\\modifycsvfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588929CC-9168-4519-9FE5-515110C9209B}|CSV_DataHandling\\CSV_DataHandling.csproj|solutionrelative:csv_datahandling\\modifycsvfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588929CC-9168-4519-9FE5-515110C9209B}|CSV_DataHandling\\CSV_DataHandling.csproj|D:\\3-DotNet_Training_Assignments\\February\\25-02-2025-CSV-DataHandling\\CSV_DataHandling\\csv_datahandling\\searchrecordincsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588929CC-9168-4519-9FE5-515110C9209B}|CSV_DataHandling\\CSV_DataHandling.csproj|solutionrelative:csv_datahandling\\searchrecordincsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588929CC-9168-4519-9FE5-515110C9209B}|CSV_DataHandling\\CSV_DataHandling.csproj|D:\\3-DotNet_Training_Assignments\\February\\25-02-2025-CSV-DataHandling\\CSV_DataHandling\\csv_datahandling\\filterrecordsfromcsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588929CC-9168-4519-9FE5-515110C9209B}|CSV_DataHandling\\CSV_DataHandling.csproj|solutionrelative:csv_datahandling\\filterrecordsfromcsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588929CC-9168-4519-9FE5-515110C9209B}|CSV_DataHandling\\CSV_DataHandling.csproj|D:\\3-DotNet_Training_Assignments\\February\\25-02-2025-CSV-DataHandling\\CSV_DataHandling\\csv_datahandling\\readandcountrows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588929CC-9168-4519-9FE5-515110C9209B}|CSV_DataHandling\\CSV_DataHandling.csproj|solutionrelative:csv_datahandling\\readandcountrows.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588929CC-9168-4519-9FE5-515110C9209B}|CSV_DataHandling\\CSV_DataHandling.csproj|D:\\3-DotNet_Training_Assignments\\February\\25-02-2025-CSV-DataHandling\\CSV_DataHandling\\csv_datahandling\\writedatacsvfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588929CC-9168-4519-9FE5-515110C9209B}|CSV_DataHandling\\CSV_DataHandling.csproj|solutionrelative:csv_datahandling\\writedatacsvfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588929CC-9168-4519-9FE5-515110C9209B}|CSV_DataHandling\\CSV_DataHandling.csproj|D:\\3-DotNet_Training_Assignments\\February\\25-02-2025-CSV-DataHandling\\CSV_DataHandling\\csv_datahandling\\readprintcsvfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588929CC-9168-4519-9FE5-515110C9209B}|CSV_DataHandling\\CSV_DataHandling.csproj|solutionrelative:csv_datahandling\\readprintcsvfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588929CC-9168-4519-9FE5-515110C9209B}|CSV_DataHandling\\CSV_DataHandling.csproj|D:\\3-DotNet_Training_Assignments\\February\\25-02-2025-CSV-DataHandling\\CSV_DataHandling\\csv_datahandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588929CC-9168-4519-9FE5-515110C9209B}|CSV_DataHandling\\CSV_DataHandling.csproj|solutionrelative:csv_datahandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EncryptAndDecryptCSVData.cs",
+              "DocumentMoniker": "D:\\3-DotNet_Training_Assignments\\February\\25-02-2025-CSV-DataHandling\\CSV_DataHandling\\CSV_DataHandling\\EncryptAndDecryptCSVData.cs",
+              "RelativeDocumentMoniker": "CSV_DataHandling\\EncryptAndDecryptCSVData.cs",
+              "ToolTip": "D:\\3-DotNet_Training_Assignments\\February\\25-02-2025-CSV-DataHandling\\CSV_DataHandling\\CSV_DataHandling\\EncryptAndDecryptCSVData.cs",
+              "RelativeToolTip": "CSV_DataHandling\\EncryptAndDecryptCSVData.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAwwHYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T15:43:52.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConvertJSONtoCSV.cs",
+              "DocumentMoniker": "D:\\3-DotNet_Training_Assignments\\February\\25-02-2025-CSV-DataHandling\\CSV_DataHandling\\CSV_DataHandling\\ConvertJSONtoCSV.cs",
+              "RelativeDocumentMoniker": "CSV_DataHandling\\ConvertJSONtoCSV.cs",
+              "ToolTip": "D:\\3-DotNet_Training_Assignments\\February\\25-02-2025-CSV-DataHandling\\CSV_DataHandling\\CSV_DataHandling\\ConvertJSONtoCSV.cs",
+              "RelativeToolTip": "CSV_DataHandling\\ConvertJSONtoCSV.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAADwv0EAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T15:35:49.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CSVReportfromDatabase.cs",
+              "DocumentMoniker": "D:\\3-DotNet_Training_Assignments\\February\\25-02-2025-CSV-DataHandling\\CSV_DataHandling\\CSV_DataHandling\\CSVReportfromDatabase.cs",
+              "RelativeDocumentMoniker": "CSV_DataHandling\\CSVReportfromDatabase.cs",
+              "ToolTip": "D:\\3-DotNet_Training_Assignments\\February\\25-02-2025-CSV-DataHandling\\CSV_DataHandling\\CSV_DataHandling\\CSVReportfromDatabase.cs",
+              "RelativeToolTip": "CSV_DataHandling\\CSVReportfromDatabase.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwwB8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T15:14:05.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DetectDuplicatesInCSVFile.cs",
+              "DocumentMoniker": "D:\\3-DotNet_Training_Assignments\\February\\25-02-2025-CSV-DataHandling\\CSV_DataHandling\\CSV_DataHandling\\DetectDuplicatesInCSVFile.cs",
+              "RelativeDocumentMoniker": "CSV_DataHandling\\DetectDuplicatesInCSVFile.cs",
+              "ToolTip": "D:\\3-DotNet_Training_Assignments\\February\\25-02-2025-CSV-DataHandling\\CSV_DataHandling\\CSV_DataHandling\\DetectDuplicatesInCSVFile.cs",
+              "RelativeToolTip": "CSV_DataHandling\\DetectDuplicatesInCSVFile.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T15:11:12.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReadLargeCSVFile.cs",
+              "DocumentMoniker": "D:\\3-DotNet_Training_Assignments\\February\\25-02-2025-CSV-DataHandling\\CSV_DataHandling\\CSV_DataHandling\\ReadLargeCSVFile.cs",
+              "RelativeDocumentMoniker": "CSV_DataHandling\\ReadLargeCSVFile.cs",
+              "ToolTip": "D:\\3-DotNet_Training_Assignments\\February\\25-02-2025-CSV-DataHandling\\CSV_DataHandling\\CSV_DataHandling\\ReadLargeCSVFile.cs",
+              "RelativeToolTip": "CSV_DataHandling\\ReadLargeCSVFile.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAywB8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T15:08:37.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MergeTwoCSVFiles.cs",
+              "DocumentMoniker": "D:\\3-DotNet_Training_Assignments\\February\\25-02-2025-CSV-DataHandling\\CSV_DataHandling\\CSV_DataHandling\\MergeTwoCSVFiles.cs",
+              "RelativeDocumentMoniker": "CSV_DataHandling\\MergeTwoCSVFiles.cs",
+              "ToolTip": "D:\\3-DotNet_Training_Assignments\\February\\25-02-2025-CSV-DataHandling\\CSV_DataHandling\\CSV_DataHandling\\MergeTwoCSVFiles.cs",
+              "RelativeToolTip": "CSV_DataHandling\\MergeTwoCSVFiles.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAIwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T15:04:53.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CSVDataIntoJavaObjects.cs",
+              "DocumentMoniker": "D:\\3-DotNet_Training_Assignments\\February\\25-02-2025-CSV-DataHandling\\CSV_DataHandling\\CSV_DataHandling\\CSVDataIntoJavaObjects.cs",
+              "RelativeDocumentMoniker": "CSV_DataHandling\\CSVDataIntoJavaObjects.cs",
+              "ToolTip": "D:\\3-DotNet_Training_Assignments\\February\\25-02-2025-CSV-DataHandling\\CSV_DataHandling\\CSV_DataHandling\\CSVDataIntoJavaObjects.cs",
+              "RelativeToolTip": "CSV_DataHandling\\CSVDataIntoJavaObjects.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T15:03:28.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ValidateCSVData.cs",
+              "DocumentMoniker": "D:\\3-DotNet_Training_Assignments\\February\\25-02-2025-CSV-DataHandling\\CSV_DataHandling\\CSV_DataHandling\\ValidateCSVData.cs",
+              "RelativeDocumentMoniker": "CSV_DataHandling\\ValidateCSVData.cs",
+              "ToolTip": "D:\\3-DotNet_Training_Assignments\\February\\25-02-2025-CSV-DataHandling\\CSV_DataHandling\\CSV_DataHandling\\ValidateCSVData.cs",
+              "RelativeToolTip": "CSV_DataHandling\\ValidateCSVData.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAIwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T15:00:57.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SortCSVRecordsByColumn.cs",
+              "DocumentMoniker": "D:\\3-DotNet_Training_Assignments\\February\\25-02-2025-CSV-DataHandling\\CSV_DataHandling\\CSV_DataHandling\\SortCSVRecordsByColumn.cs",
+              "RelativeDocumentMoniker": "CSV_DataHandling\\SortCSVRecordsByColumn.cs",
+              "ToolTip": "D:\\3-DotNet_Training_Assignments\\February\\25-02-2025-CSV-DataHandling\\CSV_DataHandling\\CSV_DataHandling\\SortCSVRecordsByColumn.cs",
+              "RelativeToolTip": "CSV_DataHandling\\SortCSVRecordsByColumn.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwCQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T14:56:02.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ModifyCSVFile.cs",
+              "DocumentMoniker": "D:\\3-DotNet_Training_Assignments\\February\\25-02-2025-CSV-DataHandling\\CSV_DataHandling\\CSV_DataHandling\\ModifyCSVFile.cs",
+              "RelativeDocumentMoniker": "CSV_DataHandling\\ModifyCSVFile.cs",
+              "ToolTip": "D:\\3-DotNet_Training_Assignments\\February\\25-02-2025-CSV-DataHandling\\CSV_DataHandling\\CSV_DataHandling\\ModifyCSVFile.cs",
+              "RelativeToolTip": "CSV_DataHandling\\ModifyCSVFile.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAIwCoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T11:12:10.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SearchRecordInCSV.cs",
+              "DocumentMoniker": "D:\\3-DotNet_Training_Assignments\\February\\25-02-2025-CSV-DataHandling\\CSV_DataHandling\\CSV_DataHandling\\SearchRecordInCSV.cs",
+              "RelativeDocumentMoniker": "CSV_DataHandling\\SearchRecordInCSV.cs",
+              "ToolTip": "D:\\3-DotNet_Training_Assignments\\February\\25-02-2025-CSV-DataHandling\\CSV_DataHandling\\CSV_DataHandling\\SearchRecordInCSV.cs",
+              "RelativeToolTip": "CSV_DataHandling\\SearchRecordInCSV.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T10:19:36.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FilterRecordsfromCSV.cs",
+              "DocumentMoniker": "D:\\3-DotNet_Training_Assignments\\February\\25-02-2025-CSV-DataHandling\\CSV_DataHandling\\CSV_DataHandling\\FilterRecordsfromCSV.cs",
+              "RelativeDocumentMoniker": "CSV_DataHandling\\FilterRecordsfromCSV.cs",
+              "ToolTip": "D:\\3-DotNet_Training_Assignments\\February\\25-02-2025-CSV-DataHandling\\CSV_DataHandling\\CSV_DataHandling\\FilterRecordsfromCSV.cs",
+              "RelativeToolTip": "CSV_DataHandling\\FilterRecordsfromCSV.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAIwCQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T10:15:31.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReadAndCountRows.cs",
+              "DocumentMoniker": "D:\\3-DotNet_Training_Assignments\\February\\25-02-2025-CSV-DataHandling\\CSV_DataHandling\\CSV_DataHandling\\ReadAndCountRows.cs",
+              "RelativeDocumentMoniker": "CSV_DataHandling\\ReadAndCountRows.cs",
+              "ToolTip": "D:\\3-DotNet_Training_Assignments\\February\\25-02-2025-CSV-DataHandling\\CSV_DataHandling\\CSV_DataHandling\\ReadAndCountRows.cs",
+              "RelativeToolTip": "CSV_DataHandling\\ReadAndCountRows.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwBMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T08:53:48.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WriteDataCSVFile.cs",
+              "DocumentMoniker": "D:\\3-DotNet_Training_Assignments\\February\\25-02-2025-CSV-DataHandling\\CSV_DataHandling\\CSV_DataHandling\\WriteDataCSVFile.cs",
+              "RelativeDocumentMoniker": "CSV_DataHandling\\WriteDataCSVFile.cs",
+              "ToolTip": "D:\\3-DotNet_Training_Assignments\\February\\25-02-2025-CSV-DataHandling\\CSV_DataHandling\\CSV_DataHandling\\WriteDataCSVFile.cs",
+              "RelativeToolTip": "CSV_DataHandling\\WriteDataCSVFile.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T08:49:21.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ReadPrintCSVFile.cs",
+              "DocumentMoniker": "D:\\3-DotNet_Training_Assignments\\February\\25-02-2025-CSV-DataHandling\\CSV_DataHandling\\CSV_DataHandling\\ReadPrintCSVFile.cs",
+              "RelativeDocumentMoniker": "CSV_DataHandling\\ReadPrintCSVFile.cs",
+              "ToolTip": "D:\\3-DotNet_Training_Assignments\\February\\25-02-2025-CSV-DataHandling\\CSV_DataHandling\\CSV_DataHandling\\ReadPrintCSVFile.cs",
+              "RelativeToolTip": "CSV_DataHandling\\ReadPrintCSVFile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T08:43:55.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\3-DotNet_Training_Assignments\\February\\25-02-2025-CSV-DataHandling\\CSV_DataHandling\\CSV_DataHandling\\Program.cs",
+              "RelativeDocumentMoniker": "CSV_DataHandling\\Program.cs",
+              "ToolTip": "D:\\3-DotNet_Training_Assignments\\February\\25-02-2025-CSV-DataHandling\\CSV_DataHandling\\CSV_DataHandling\\Program.cs",
+              "RelativeToolTip": "CSV_DataHandling\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T08:43:09.664Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
