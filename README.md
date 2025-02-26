@@ -64,3 +64,5 @@ This repository contains the daily progress and tasks completed as part of my .N
 - Doing Assignments-Practice Questions on Annotations and Reflections in C#.
 ### February 25, 2025
 - CSV Data Handling, Reading and Writing CSV Files, Parsing and Data Validation.
+### February 26, 2025
+- JSON DataHandling.
