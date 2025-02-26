@@ -1,0 +1,10 @@
+D:\3-DotNet_Training_Assignments\February\26-02-2025-JSON_DataHandling\JSON_DataHandling\JSON_DataHandling\obj\Debug\JSON_DataHandling.csproj.AssemblyReference.cache
+D:\3-DotNet_Training_Assignments\February\26-02-2025-JSON_DataHandling\JSON_DataHandling\JSON_DataHandling\obj\Debug\JSON_DataHandling.csproj.CoreCompileInputs.cache
+D:\3-DotNet_Training_Assignments\February\26-02-2025-JSON_DataHandling\JSON_DataHandling\JSON_DataHandling\bin\Debug\JSON_DataHandling.exe.config
+D:\3-DotNet_Training_Assignments\February\26-02-2025-JSON_DataHandling\JSON_DataHandling\JSON_DataHandling\bin\Debug\JSON_DataHandling.exe
+D:\3-DotNet_Training_Assignments\February\26-02-2025-JSON_DataHandling\JSON_DataHandling\JSON_DataHandling\bin\Debug\JSON_DataHandling.pdb
+D:\3-DotNet_Training_Assignments\February\26-02-2025-JSON_DataHandling\JSON_DataHandling\JSON_DataHandling\bin\Debug\Newtonsoft.Json.dll
+D:\3-DotNet_Training_Assignments\February\26-02-2025-JSON_DataHandling\JSON_DataHandling\JSON_DataHandling\bin\Debug\Newtonsoft.Json.xml
+D:\3-DotNet_Training_Assignments\February\26-02-2025-JSON_DataHandling\JSON_DataHandling\JSON_DataHandling\obj\Debug\JSON_Dat.8A915D1B.Up2Date
+D:\3-DotNet_Training_Assignments\February\26-02-2025-JSON_DataHandling\JSON_DataHandling\JSON_DataHandling\obj\Debug\JSON_DataHandling.exe
+D:\3-DotNet_Training_Assignments\February\26-02-2025-JSON_DataHandling\JSON_DataHandling\JSON_DataHandling\obj\Debug\JSON_DataHandling.pdb

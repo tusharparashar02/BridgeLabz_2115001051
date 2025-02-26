@@ -1,0 +1,274 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\3-DotNet_Training_Assignments\\February\\26-02-2025-JSON_DataHandling\\JSON_DataHandling\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7D041D0-4B00-4017-AF97-A0909BD01C16}|JSON_DataHandling\\JSON_DataHandling.csproj|d:\\3-dotnet_training_assignments\\february\\26-02-2025-json_datahandling\\json_datahandling\\json_datahandling\\convertcsvtojson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7D041D0-4B00-4017-AF97-A0909BD01C16}|JSON_DataHandling\\JSON_DataHandling.csproj|solutionrelative:json_datahandling\\convertcsvtojson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7D041D0-4B00-4017-AF97-A0909BD01C16}|JSON_DataHandling\\JSON_DataHandling.csproj|d:\\3-dotnet_training_assignments\\february\\26-02-2025-json_datahandling\\json_datahandling\\json_datahandling\\convertjsontoxml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7D041D0-4B00-4017-AF97-A0909BD01C16}|JSON_DataHandling\\JSON_DataHandling.csproj|solutionrelative:json_datahandling\\convertjsontoxml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7D041D0-4B00-4017-AF97-A0909BD01C16}|JSON_DataHandling\\JSON_DataHandling.csproj|d:\\3-dotnet_training_assignments\\february\\26-02-2025-json_datahandling\\json_datahandling\\json_datahandling\\mergejsonfiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7D041D0-4B00-4017-AF97-A0909BD01C16}|JSON_DataHandling\\JSON_DataHandling.csproj|solutionrelative:json_datahandling\\mergejsonfiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7D041D0-4B00-4017-AF97-A0909BD01C16}|JSON_DataHandling\\JSON_DataHandling.csproj|d:\\3-dotnet_training_assignments\\february\\26-02-2025-json_datahandling\\json_datahandling\\json_datahandling\\validateemailschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7D041D0-4B00-4017-AF97-A0909BD01C16}|JSON_DataHandling\\JSON_DataHandling.csproj|solutionrelative:json_datahandling\\validateemailschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7D041D0-4B00-4017-AF97-A0909BD01C16}|JSON_DataHandling\\JSON_DataHandling.csproj|d:\\3-dotnet_training_assignments\\february\\26-02-2025-json_datahandling\\json_datahandling\\json_datahandling\\filterjsondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7D041D0-4B00-4017-AF97-A0909BD01C16}|JSON_DataHandling\\JSON_DataHandling.csproj|solutionrelative:json_datahandling\\filterjsondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7D041D0-4B00-4017-AF97-A0909BD01C16}|JSON_DataHandling\\JSON_DataHandling.csproj|d:\\3-dotnet_training_assignments\\february\\26-02-2025-json_datahandling\\json_datahandling\\json_datahandling\\convertlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7D041D0-4B00-4017-AF97-A0909BD01C16}|JSON_DataHandling\\JSON_DataHandling.csproj|solutionrelative:json_datahandling\\convertlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7D041D0-4B00-4017-AF97-A0909BD01C16}|JSON_DataHandling\\JSON_DataHandling.csproj|d:\\3-dotnet_training_assignments\\february\\26-02-2025-json_datahandling\\json_datahandling\\json_datahandling\\readjsonfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7D041D0-4B00-4017-AF97-A0909BD01C16}|JSON_DataHandling\\JSON_DataHandling.csproj|solutionrelative:json_datahandling\\readjsonfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7D041D0-4B00-4017-AF97-A0909BD01C16}|JSON_DataHandling\\JSON_DataHandling.csproj|d:\\3-dotnet_training_assignments\\february\\26-02-2025-json_datahandling\\json_datahandling\\json_datahandling\\parseandfilterjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7D041D0-4B00-4017-AF97-A0909BD01C16}|JSON_DataHandling\\JSON_DataHandling.csproj|solutionrelative:json_datahandling\\parseandfilterjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7D041D0-4B00-4017-AF97-A0909BD01C16}|JSON_DataHandling\\JSON_DataHandling.csproj|d:\\3-dotnet_training_assignments\\february\\26-02-2025-json_datahandling\\json_datahandling\\json_datahandling\\validatejsonstruc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7D041D0-4B00-4017-AF97-A0909BD01C16}|JSON_DataHandling\\JSON_DataHandling.csproj|solutionrelative:json_datahandling\\validatejsonstruc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7D041D0-4B00-4017-AF97-A0909BD01C16}|JSON_DataHandling\\JSON_DataHandling.csproj|D:\\3-DotNet_Training_Assignments\\February\\26-02-2025-JSON_DataHandling\\JSON_DataHandling\\json_datahandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7D041D0-4B00-4017-AF97-A0909BD01C16}|JSON_DataHandling\\JSON_DataHandling.csproj|solutionrelative:json_datahandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7D041D0-4B00-4017-AF97-A0909BD01C16}|JSON_DataHandling\\JSON_DataHandling.csproj|d:\\3-dotnet_training_assignments\\february\\26-02-2025-json_datahandling\\json_datahandling\\json_datahandling\\mergetwojsonobj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7D041D0-4B00-4017-AF97-A0909BD01C16}|JSON_DataHandling\\JSON_DataHandling.csproj|solutionrelative:json_datahandling\\mergetwojsonobj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7D041D0-4B00-4017-AF97-A0909BD01C16}|JSON_DataHandling\\JSON_DataHandling.csproj|d:\\3-dotnet_training_assignments\\february\\26-02-2025-json_datahandling\\json_datahandling\\json_datahandling\\readjsondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7D041D0-4B00-4017-AF97-A0909BD01C16}|JSON_DataHandling\\JSON_DataHandling.csproj|solutionrelative:json_datahandling\\readjsondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7D041D0-4B00-4017-AF97-A0909BD01C16}|JSON_DataHandling\\JSON_DataHandling.csproj|d:\\3-dotnet_training_assignments\\february\\26-02-2025-json_datahandling\\json_datahandling\\json_datahandling\\convertcsharpobjintojson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7D041D0-4B00-4017-AF97-A0909BD01C16}|JSON_DataHandling\\JSON_DataHandling.csproj|solutionrelative:json_datahandling\\convertcsharpobjintojson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7D041D0-4B00-4017-AF97-A0909BD01C16}|JSON_DataHandling\\JSON_DataHandling.csproj|d:\\3-dotnet_training_assignments\\february\\26-02-2025-json_datahandling\\json_datahandling\\json_datahandling\\createjsonobjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7D041D0-4B00-4017-AF97-A0909BD01C16}|JSON_DataHandling\\JSON_DataHandling.csproj|solutionrelative:json_datahandling\\createjsonobjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConvertCSVtoJSON.cs",
+              "DocumentMoniker": "D:\\3-DotNet_Training_Assignments\\February\\26-02-2025-JSON_DataHandling\\JSON_DataHandling\\JSON_DataHandling\\ConvertCSVtoJSON.cs",
+              "RelativeDocumentMoniker": "JSON_DataHandling\\ConvertCSVtoJSON.cs",
+              "ToolTip": "D:\\3-DotNet_Training_Assignments\\February\\26-02-2025-JSON_DataHandling\\JSON_DataHandling\\JSON_DataHandling\\ConvertCSVtoJSON.cs",
+              "RelativeToolTip": "JSON_DataHandling\\ConvertCSVtoJSON.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwAsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T14:10:25.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConvertJsonToXml.cs",
+              "DocumentMoniker": "D:\\3-DotNet_Training_Assignments\\February\\26-02-2025-JSON_DataHandling\\JSON_DataHandling\\JSON_DataHandling\\ConvertJsonToXml.cs",
+              "RelativeDocumentMoniker": "JSON_DataHandling\\ConvertJsonToXml.cs",
+              "ToolTip": "D:\\3-DotNet_Training_Assignments\\February\\26-02-2025-JSON_DataHandling\\JSON_DataHandling\\JSON_DataHandling\\ConvertJsonToXml.cs",
+              "RelativeToolTip": "JSON_DataHandling\\ConvertJsonToXml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T13:57:46.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MergeJsonFiles.cs",
+              "DocumentMoniker": "D:\\3-DotNet_Training_Assignments\\February\\26-02-2025-JSON_DataHandling\\JSON_DataHandling\\JSON_DataHandling\\MergeJsonFiles.cs",
+              "RelativeDocumentMoniker": "JSON_DataHandling\\MergeJsonFiles.cs",
+              "ToolTip": "D:\\3-DotNet_Training_Assignments\\February\\26-02-2025-JSON_DataHandling\\JSON_DataHandling\\JSON_DataHandling\\MergeJsonFiles.cs",
+              "RelativeToolTip": "JSON_DataHandling\\MergeJsonFiles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T13:55:11.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ValidateEmailSchema.cs",
+              "DocumentMoniker": "D:\\3-DotNet_Training_Assignments\\February\\26-02-2025-JSON_DataHandling\\JSON_DataHandling\\JSON_DataHandling\\ValidateEmailSchema.cs",
+              "RelativeDocumentMoniker": "JSON_DataHandling\\ValidateEmailSchema.cs",
+              "ToolTip": "D:\\3-DotNet_Training_Assignments\\February\\26-02-2025-JSON_DataHandling\\JSON_DataHandling\\JSON_DataHandling\\ValidateEmailSchema.cs",
+              "RelativeToolTip": "JSON_DataHandling\\ValidateEmailSchema.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T13:51:52.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FilterJsonData.cs",
+              "DocumentMoniker": "D:\\3-DotNet_Training_Assignments\\February\\26-02-2025-JSON_DataHandling\\JSON_DataHandling\\JSON_DataHandling\\FilterJsonData.cs",
+              "RelativeDocumentMoniker": "JSON_DataHandling\\FilterJsonData.cs",
+              "ToolTip": "D:\\3-DotNet_Training_Assignments\\February\\26-02-2025-JSON_DataHandling\\JSON_DataHandling\\JSON_DataHandling\\FilterJsonData.cs",
+              "RelativeToolTip": "JSON_DataHandling\\FilterJsonData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T13:49:59.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReadJSONFile.cs",
+              "DocumentMoniker": "D:\\3-DotNet_Training_Assignments\\February\\26-02-2025-JSON_DataHandling\\JSON_DataHandling\\JSON_DataHandling\\ReadJSONFile.cs",
+              "RelativeDocumentMoniker": "JSON_DataHandling\\ReadJSONFile.cs",
+              "ToolTip": "D:\\3-DotNet_Training_Assignments\\February\\26-02-2025-JSON_DataHandling\\JSON_DataHandling\\JSON_DataHandling\\ReadJSONFile.cs",
+              "RelativeToolTip": "JSON_DataHandling\\ReadJSONFile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T13:42:07.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ParseAndFilterJSON.cs",
+              "DocumentMoniker": "D:\\3-DotNet_Training_Assignments\\February\\26-02-2025-JSON_DataHandling\\JSON_DataHandling\\JSON_DataHandling\\ParseAndFilterJSON.cs",
+              "RelativeDocumentMoniker": "JSON_DataHandling\\ParseAndFilterJSON.cs",
+              "ToolTip": "D:\\3-DotNet_Training_Assignments\\February\\26-02-2025-JSON_DataHandling\\JSON_DataHandling\\JSON_DataHandling\\ParseAndFilterJSON.cs",
+              "RelativeToolTip": "JSON_DataHandling\\ParseAndFilterJSON.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T13:30:32.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConvertList.cs",
+              "DocumentMoniker": "D:\\3-DotNet_Training_Assignments\\February\\26-02-2025-JSON_DataHandling\\JSON_DataHandling\\JSON_DataHandling\\ConvertList.cs",
+              "RelativeDocumentMoniker": "JSON_DataHandling\\ConvertList.cs",
+              "ToolTip": "D:\\3-DotNet_Training_Assignments\\February\\26-02-2025-JSON_DataHandling\\JSON_DataHandling\\JSON_DataHandling\\ConvertList.cs",
+              "RelativeToolTip": "JSON_DataHandling\\ConvertList.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T13:26:01.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ValidateJSONstruc.cs",
+              "DocumentMoniker": "D:\\3-DotNet_Training_Assignments\\February\\26-02-2025-JSON_DataHandling\\JSON_DataHandling\\JSON_DataHandling\\ValidateJSONstruc.cs",
+              "RelativeDocumentMoniker": "JSON_DataHandling\\ValidateJSONstruc.cs",
+              "ToolTip": "D:\\3-DotNet_Training_Assignments\\February\\26-02-2025-JSON_DataHandling\\JSON_DataHandling\\JSON_DataHandling\\ValidateJSONstruc.cs",
+              "RelativeToolTip": "JSON_DataHandling\\ValidateJSONstruc.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T13:18:07.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MergeTwoJSONobj.cs",
+              "DocumentMoniker": "D:\\3-DotNet_Training_Assignments\\February\\26-02-2025-JSON_DataHandling\\JSON_DataHandling\\JSON_DataHandling\\MergeTwoJSONobj.cs",
+              "RelativeDocumentMoniker": "JSON_DataHandling\\MergeTwoJSONobj.cs",
+              "ToolTip": "D:\\3-DotNet_Training_Assignments\\February\\26-02-2025-JSON_DataHandling\\JSON_DataHandling\\JSON_DataHandling\\MergeTwoJSONobj.cs",
+              "RelativeToolTip": "JSON_DataHandling\\MergeTwoJSONobj.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T13:15:24.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ReadJSONData.cs",
+              "DocumentMoniker": "D:\\3-DotNet_Training_Assignments\\February\\26-02-2025-JSON_DataHandling\\JSON_DataHandling\\JSON_DataHandling\\ReadJSONData.cs",
+              "RelativeDocumentMoniker": "JSON_DataHandling\\ReadJSONData.cs",
+              "ToolTip": "D:\\3-DotNet_Training_Assignments\\February\\26-02-2025-JSON_DataHandling\\JSON_DataHandling\\JSON_DataHandling\\ReadJSONData.cs",
+              "RelativeToolTip": "JSON_DataHandling\\ReadJSONData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T13:03:54.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ConvertCSharpObjIntoJson.cs",
+              "DocumentMoniker": "D:\\3-DotNet_Training_Assignments\\February\\26-02-2025-JSON_DataHandling\\JSON_DataHandling\\JSON_DataHandling\\ConvertCSharpObjIntoJson.cs",
+              "RelativeDocumentMoniker": "JSON_DataHandling\\ConvertCSharpObjIntoJson.cs",
+              "ToolTip": "D:\\3-DotNet_Training_Assignments\\February\\26-02-2025-JSON_DataHandling\\JSON_DataHandling\\JSON_DataHandling\\ConvertCSharpObjIntoJson.cs",
+              "RelativeToolTip": "JSON_DataHandling\\ConvertCSharpObjIntoJson.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T13:00:32.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreateJSONobjects.cs",
+              "DocumentMoniker": "D:\\3-DotNet_Training_Assignments\\February\\26-02-2025-JSON_DataHandling\\JSON_DataHandling\\JSON_DataHandling\\CreateJSONobjects.cs",
+              "RelativeDocumentMoniker": "JSON_DataHandling\\CreateJSONobjects.cs",
+              "ToolTip": "D:\\3-DotNet_Training_Assignments\\February\\26-02-2025-JSON_DataHandling\\JSON_DataHandling\\JSON_DataHandling\\CreateJSONobjects.cs",
+              "RelativeToolTip": "JSON_DataHandling\\CreateJSONobjects.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T10:59:16.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\3-DotNet_Training_Assignments\\February\\26-02-2025-JSON_DataHandling\\JSON_DataHandling\\JSON_DataHandling\\Program.cs",
+              "RelativeDocumentMoniker": "JSON_DataHandling\\Program.cs",
+              "ToolTip": "D:\\3-DotNet_Training_Assignments\\February\\26-02-2025-JSON_DataHandling\\JSON_DataHandling\\JSON_DataHandling\\Program.cs",
+              "RelativeToolTip": "JSON_DataHandling\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T10:57:32.187Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
