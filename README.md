@@ -66,3 +66,5 @@ This repository contains the daily progress and tasks completed as part of my .N
 - CSV Data Handling, Reading and Writing CSV Files, Parsing and Data Validation.
 ### February 26, 2025
 - JSON DataHandling.
+### February 27, 2025
+- Starting Web API in C# using ASP.NET Framework.
