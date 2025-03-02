@@ -70,3 +70,5 @@ This repository contains the daily progress and tasks completed as part of my .N
 - Starting Web API in C# using ASP.NET Framework.
 ### February 28, 2025
 - Project that take user registration using ASP.NET.
+### March 01, 2025
+- Update running project with Implement Exception Handling and logger(NLog).
