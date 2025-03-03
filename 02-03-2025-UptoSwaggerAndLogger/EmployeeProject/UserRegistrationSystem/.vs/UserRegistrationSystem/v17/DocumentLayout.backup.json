@@ -1,0 +1,191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\3-DotNet_Training_Assignments\\EmployeeProject\\UserRegistrationSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC45E423-17C1-43E1-ACF8-7AE39C67E574}|..\\RepositoryLayer\\RepositoryLayer.csproj|d:\\3-dotnet_training_assignments\\employeeproject\\repositorylayer\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC45E423-17C1-43E1-ACF8-7AE39C67E574}|..\\RepositoryLayer\\RepositoryLayer.csproj|d:\\3-dotnet_training_assignments\\employeeproject\\repositorylayer\\service\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BEBA6BF-DAAE-496C-8CA0-06C94A18DABA}|..\\BusinessLayer\\BusinessLayer.csproj|d:\\3-dotnet_training_assignments\\employeeproject\\businesslayer\\service\\userregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BEBA6BF-DAAE-496C-8CA0-06C94A18DABA}|..\\BusinessLayer\\BusinessLayer.csproj|d:\\3-dotnet_training_assignments\\employeeproject\\businesslayer\\interface\\iuserregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16166084-E66B-47AA-AB82-E7573AFAA03A}|..\\ModelLayer\\ModelLayer.csproj|d:\\3-dotnet_training_assignments\\employeeproject\\modellayer\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{861AC22A-5F64-4F15-B9A5-7FB9BC8FF259}|UserRegistrationSystem.csproj|d:\\3-dotnet_training_assignments\\employeeproject\\userregistrationsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{861AC22A-5F64-4F15-B9A5-7FB9BC8FF259}|UserRegistrationSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{861AC22A-5F64-4F15-B9A5-7FB9BC8FF259}|UserRegistrationSystem.csproj|d:\\3-dotnet_training_assignments\\employeeproject\\userregistrationsystem\\controllers\\userregistrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{861AC22A-5F64-4F15-B9A5-7FB9BC8FF259}|UserRegistrationSystem.csproj|solutionrelative:controllers\\userregistrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{861AC22A-5F64-4F15-B9A5-7FB9BC8FF259}|UserRegistrationSystem.csproj|d:\\3-dotnet_training_assignments\\employeeproject\\userregistrationsystem\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{861AC22A-5F64-4F15-B9A5-7FB9BC8FF259}|UserRegistrationSystem.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{861AC22A-5F64-4F15-B9A5-7FB9BC8FF259}|UserRegistrationSystem.csproj|d:\\3-dotnet_training_assignments\\employeeproject\\userregistrationsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{861AC22A-5F64-4F15-B9A5-7FB9BC8FF259}|UserRegistrationSystem.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16166084-E66B-47AA-AB82-E7573AFAA03A}|..\\ModelLayer\\ModelLayer.csproj|d:\\3-dotnet_training_assignments\\employeeproject\\modellayer\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\3-DotNet_Training_Assignments\\EmployeeProject\\RepositoryLayer\\Interface\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\Interface\\IUserRepository.cs",
+              "ToolTip": "D:\\3-DotNet_Training_Assignments\\EmployeeProject\\RepositoryLayer\\Interface\\IUserRepository.cs",
+              "RelativeToolTip": "..\\RepositoryLayer\\Interface\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T07:07:19.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\3-DotNet_Training_Assignments\\EmployeeProject\\RepositoryLayer\\Service\\UserRepository.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\Service\\UserRepository.cs",
+              "ToolTip": "D:\\3-DotNet_Training_Assignments\\EmployeeProject\\RepositoryLayer\\Service\\UserRepository.cs",
+              "RelativeToolTip": "..\\RepositoryLayer\\Service\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T07:06:58.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "D:\\3-DotNet_Training_Assignments\\EmployeeProject\\ModelLayer\\DTO\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "..\\ModelLayer\\DTO\\LoginDTO.cs",
+              "ToolTip": "D:\\3-DotNet_Training_Assignments\\EmployeeProject\\ModelLayer\\DTO\\LoginDTO.cs",
+              "RelativeToolTip": "..\\ModelLayer\\DTO\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T07:04:51.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUserRegistration.cs",
+              "DocumentMoniker": "D:\\3-DotNet_Training_Assignments\\EmployeeProject\\BusinessLayer\\Interface\\IUserRegistration.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\Interface\\IUserRegistration.cs",
+              "ToolTip": "D:\\3-DotNet_Training_Assignments\\EmployeeProject\\BusinessLayer\\Interface\\IUserRegistration.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\Interface\\IUserRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T07:03:50.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRegistration.cs",
+              "DocumentMoniker": "D:\\3-DotNet_Training_Assignments\\EmployeeProject\\BusinessLayer\\Service\\UserRegistration.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\Service\\UserRegistration.cs",
+              "ToolTip": "D:\\3-DotNet_Training_Assignments\\EmployeeProject\\BusinessLayer\\Service\\UserRegistration.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\Service\\UserRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T07:03:39.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserRegistrationController.cs",
+              "DocumentMoniker": "D:\\3-DotNet_Training_Assignments\\EmployeeProject\\UserRegistrationSystem\\Controllers\\UserRegistrationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserRegistrationController.cs",
+              "ToolTip": "D:\\3-DotNet_Training_Assignments\\EmployeeProject\\UserRegistrationSystem\\Controllers\\UserRegistrationController.cs",
+              "RelativeToolTip": "Controllers\\UserRegistrationController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T06:10:55.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\3-DotNet_Training_Assignments\\EmployeeProject\\UserRegistrationSystem\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\3-DotNet_Training_Assignments\\EmployeeProject\\UserRegistrationSystem\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-03T05:57:17.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\3-DotNet_Training_Assignments\\EmployeeProject\\UserRegistrationSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\3-DotNet_Training_Assignments\\EmployeeProject\\UserRegistrationSystem\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-02T17:01:44.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\3-DotNet_Training_Assignments\\EmployeeProject\\UserRegistrationSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\3-DotNet_Training_Assignments\\EmployeeProject\\UserRegistrationSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T17:00:45.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ResponseDTO.cs",
+              "DocumentMoniker": "D:\\3-DotNet_Training_Assignments\\EmployeeProject\\ModelLayer\\DTO\\ResponseDTO.cs",
+              "RelativeDocumentMoniker": "..\\ModelLayer\\DTO\\ResponseDTO.cs",
+              "ToolTip": "D:\\3-DotNet_Training_Assignments\\EmployeeProject\\ModelLayer\\DTO\\ResponseDTO.cs",
+              "RelativeToolTip": "..\\ModelLayer\\DTO\\ResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T17:00:36.509Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
