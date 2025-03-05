@@ -72,3 +72,9 @@ This repository contains the daily progress and tasks completed as part of my .N
 - Project that take user registration using ASP.NET.
 ### March 01, 2025
 - Update running project with Implement Exception Handling and logger(NLog).
+### March 02, 2025
+- ORM - Entity Framework in C#.
+### March 03, 2025
+- API Swagger and Logger Implementation in C#
+### March 04, 2025
+- Create a new Greeting project that perform REST API's. 
