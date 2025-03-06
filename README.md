@@ -78,3 +78,7 @@ This repository contains the daily progress and tasks completed as part of my .N
 - API Swagger and Logger Implementation in C#
 ### March 04, 2025
 - Create a new Greeting project that perform REST API's. 
+### March 05, 2025
+- Go through and Implement JWT Authentication.
+### March 06, 2025
+- Go through and Implement Redis in current UserRegistration project.
