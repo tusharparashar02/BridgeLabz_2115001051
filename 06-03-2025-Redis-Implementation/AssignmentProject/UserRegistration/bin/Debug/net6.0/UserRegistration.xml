@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>UserRegistration</name>
+    </assembly>
+    <members>
+        <member name="M:UserRegistration.Controllers.UserRegistrationController.Get">
+            <summary>
+            Welcome message
+            </summary>
+            <returns>"Message"</returns>
+        </member>
+        <member name="M:UserRegistration.Controllers.UserRegistrationController.RegisterUser(ModelLayer.DTO.RegistrationDTO)">
+            <summary>
+            API to register a new user
+            </summary>
+            <param name="newUser"></param>
+            <returns>"User registered Successfully"</returns>
+        </member>
+        <member name="M:UserRegistration.Controllers.UserRegistrationController.Login(ModelLayer.DTO.LoginDTO)">
+            <summary>
+            API to login user
+            </summary>
+            <param name="loginDTO"></param>
+            <returns>"Tokens"</returns>
+        </member>
+        <member name="M:UserRegistration.Controllers.UserRegistrationController.GetUsers">
+            <summary>
+            API to fetch all registered users
+            </summary>
+            <returns>All Users</returns>
+        </member>
+    </members>
+</doc>
