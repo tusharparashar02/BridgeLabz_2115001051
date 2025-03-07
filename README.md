@@ -82,3 +82,5 @@ This repository contains the daily progress and tasks completed as part of my .N
 - Go through and Implement JWT Authentication.
 ### March 06, 2025
 - Go through and Implement Redis in current UserRegistration project.
+### March 07, 2025
+- Go through and Implement RedditMQ and STMP. 
