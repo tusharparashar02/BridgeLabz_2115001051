@@ -1,0 +1,15 @@
+C:\Users\vpush\Downloads\HelloApp\repos\RabbitMqConsumer\bin\Debug\net6.0\RabbitMqConsumerService.deps.json
+C:\Users\vpush\Downloads\HelloApp\repos\RabbitMqConsumer\bin\Debug\net6.0\RabbitMqConsumerService.dll
+C:\Users\vpush\Downloads\HelloApp\repos\RabbitMqConsumer\bin\Debug\net6.0\RabbitMqConsumerService.pdb
+C:\Users\vpush\Downloads\HelloApp\repos\RabbitMqConsumer\bin\Debug\net6.0\Email.dll
+C:\Users\vpush\Downloads\HelloApp\repos\RabbitMqConsumer\bin\Debug\net6.0\Email.pdb
+C:\Users\vpush\Downloads\HelloApp\repos\RabbitMqConsumer\obj\Debug\net6.0\RabbitMqConsumerService.csproj.AssemblyReference.cache
+C:\Users\vpush\Downloads\HelloApp\repos\RabbitMqConsumer\obj\Debug\net6.0\RabbitMqConsumerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vpush\Downloads\HelloApp\repos\RabbitMqConsumer\obj\Debug\net6.0\RabbitMqConsumerService.AssemblyInfoInputs.cache
+C:\Users\vpush\Downloads\HelloApp\repos\RabbitMqConsumer\obj\Debug\net6.0\RabbitMqConsumerService.AssemblyInfo.cs
+C:\Users\vpush\Downloads\HelloApp\repos\RabbitMqConsumer\obj\Debug\net6.0\RabbitMqConsumerService.csproj.CoreCompileInputs.cache
+C:\Users\vpush\Downloads\HelloApp\repos\RabbitMqConsumer\obj\Debug\net6.0\RabbitMq.26DED19A.Up2Date
+C:\Users\vpush\Downloads\HelloApp\repos\RabbitMqConsumer\obj\Debug\net6.0\RabbitMqConsumerService.dll
+C:\Users\vpush\Downloads\HelloApp\repos\RabbitMqConsumer\obj\Debug\net6.0\refint\RabbitMqConsumerService.dll
+C:\Users\vpush\Downloads\HelloApp\repos\RabbitMqConsumer\obj\Debug\net6.0\RabbitMqConsumerService.pdb
+C:\Users\vpush\Downloads\HelloApp\repos\RabbitMqConsumer\obj\Debug\net6.0\ref\RabbitMqConsumerService.dll

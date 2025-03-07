@@ -1,0 +1,263 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\RedditMQ\\HelloApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA9CE272-0568-4464-93D6-DF7C68DF77FC}|..\\RabbitMqConsumer\\RabbitMqConsumerService.csproj|d:\\redditmq\\rabbitmqconsumer\\service\\rabbitmqconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2DE016-AB28-41E1-8ADD-5A1D4DD57B21}|..\\RabbitMCQProducer\\RabbitMCQProducer.csproj|d:\\redditmq\\rabbitmcqproducer\\service\\rabbitmqproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72DC6154-FD46-48A5-BC33-BF9CD3EFB84F}|HelloApp.csproj|d:\\redditmq\\helloapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72DC6154-FD46-48A5-BC33-BF9CD3EFB84F}|HelloApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72DC6154-FD46-48A5-BC33-BF9CD3EFB84F}|HelloApp.csproj|d:\\redditmq\\helloapp\\controllers\\hellpapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72DC6154-FD46-48A5-BC33-BF9CD3EFB84F}|HelloApp.csproj|solutionrelative:controllers\\hellpapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8D64AA6-E546-476E-9F89-85BC835AD254}|..\\Email\\Email.csproj|d:\\redditmq\\email\\service\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D87A2C0D-C16F-4419-86A3-28D6C3E92435}|..\\BusinessLayer\\BusinessLayer.csproj|d:\\redditmq\\businesslayer\\service\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D87A2C0D-C16F-4419-86A3-28D6C3E92435}|..\\BusinessLayer\\BusinessLayer.csproj|d:\\redditmq\\businesslayer\\service\\registerhellobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D87A2C0D-C16F-4419-86A3-28D6C3E92435}|..\\BusinessLayer\\BusinessLayer.csproj|d:\\redditmq\\businesslayer\\interface\\iregisterhellobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72DC6154-FD46-48A5-BC33-BF9CD3EFB84F}|HelloApp.csproj|d:\\redditmq\\helloapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{72DC6154-FD46-48A5-BC33-BF9CD3EFB84F}|HelloApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vpush\\Downloads\\HelloApp\\repos\\RabbitMCQProducer\\Service\\RabbitMqProducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72DC6154-FD46-48A5-BC33-BF9CD3EFB84F}|HelloApp.csproj|d:\\redditmq\\helloapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{72DC6154-FD46-48A5-BC33-BF9CD3EFB84F}|HelloApp.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vpush\\Downloads\\HelloApp\\repos\\Email\\Service\\EmailService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vpush\\Downloads\\HelloApp\\repos\\RabbitMqConsumer\\Service\\RabbitMqConsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vpush\\Downloads\\HelloApp\\repos\\BusinessLayer\\BusinessLayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vpush\\Downloads\\HelloApp\\repos\\BusinessLayer\\Service\\TokenService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RabbitMqConsumer.cs",
+              "DocumentMoniker": "D:\\RedditMQ\\RabbitMqConsumer\\Service\\RabbitMqConsumer.cs",
+              "RelativeDocumentMoniker": "..\\RabbitMqConsumer\\Service\\RabbitMqConsumer.cs",
+              "ToolTip": "D:\\RedditMQ\\RabbitMqConsumer\\Service\\RabbitMqConsumer.cs",
+              "RelativeToolTip": "..\\RabbitMqConsumer\\Service\\RabbitMqConsumer.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAwE8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T17:31:58.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RabbitMqProducer.cs",
+              "DocumentMoniker": "D:\\RedditMQ\\RabbitMCQProducer\\Service\\RabbitMqProducer.cs",
+              "RelativeDocumentMoniker": "..\\RabbitMCQProducer\\Service\\RabbitMqProducer.cs",
+              "ToolTip": "D:\\RedditMQ\\RabbitMCQProducer\\Service\\RabbitMqProducer.cs",
+              "RelativeToolTip": "..\\RabbitMCQProducer\\Service\\RabbitMqProducer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T17:30:14.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "D:\\RedditMQ\\BusinessLayer\\Service\\TokenService.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\Service\\TokenService.cs",
+              "ToolTip": "D:\\RedditMQ\\BusinessLayer\\Service\\TokenService.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\Service\\TokenService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T17:24:59.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterHelloBL.cs",
+              "DocumentMoniker": "D:\\RedditMQ\\BusinessLayer\\Service\\RegisterHelloBL.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\Service\\RegisterHelloBL.cs",
+              "ToolTip": "D:\\RedditMQ\\BusinessLayer\\Service\\RegisterHelloBL.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\Service\\RegisterHelloBL.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T17:24:54.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IRegisterHelloBL.cs",
+              "DocumentMoniker": "D:\\RedditMQ\\BusinessLayer\\Interface\\IRegisterHelloBL.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\Interface\\IRegisterHelloBL.cs",
+              "ToolTip": "D:\\RedditMQ\\BusinessLayer\\Interface\\IRegisterHelloBL.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\Interface\\IRegisterHelloBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T17:24:50.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\RedditMQ\\HelloApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\RedditMQ\\HelloApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-07T17:24:37.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "D:\\RedditMQ\\Email\\Service\\EmailService.cs",
+              "RelativeDocumentMoniker": "..\\Email\\Service\\EmailService.cs",
+              "ToolTip": "D:\\RedditMQ\\Email\\Service\\EmailService.cs",
+              "RelativeToolTip": "..\\Email\\Service\\EmailService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAkwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T17:22:29.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\vpush\\Downloads\\HelloApp\\repos\\Email\\Service\\EmailService.cs",
+              "ToolTip": "C:\\Users\\vpush\\Downloads\\HelloApp\\repos\\Email\\Service\\EmailService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAABgAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T11:32:17.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HellpApp.cs",
+              "DocumentMoniker": "D:\\RedditMQ\\HelloApp\\Controllers\\HellpApp.cs",
+              "RelativeDocumentMoniker": "Controllers\\HellpApp.cs",
+              "ToolTip": "D:\\RedditMQ\\HelloApp\\Controllers\\HellpApp.cs",
+              "RelativeToolTip": "Controllers\\HellpApp.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAYwH8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T11:17:59.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\RedditMQ\\HelloApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\RedditMQ\\HelloApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAkwEgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T09:55:03.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\RedditMQ\\HelloApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\RedditMQ\\HelloApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-07T14:21:04.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RabbitMqConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\vpush\\Downloads\\HelloApp\\repos\\RabbitMqConsumer\\Service\\RabbitMqConsumer.cs",
+              "ToolTip": "C:\\Users\\vpush\\Downloads\\HelloApp\\repos\\RabbitMqConsumer\\Service\\RabbitMqConsumer.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAQwCUAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T11:27:51.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RabbitMqProducer.cs",
+              "DocumentMoniker": "C:\\Users\\vpush\\Downloads\\HelloApp\\repos\\RabbitMCQProducer\\Service\\RabbitMqProducer.cs",
+              "ToolTip": "C:\\Users\\vpush\\Downloads\\HelloApp\\repos\\RabbitMCQProducer\\Service\\RabbitMqProducer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T11:14:27.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BusinessLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\vpush\\Downloads\\HelloApp\\repos\\BusinessLayer\\BusinessLayer.csproj",
+              "ToolTip": "C:\\Users\\vpush\\Downloads\\HelloApp\\repos\\BusinessLayer\\BusinessLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-07T09:24:55.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\vpush\\Downloads\\HelloApp\\repos\\BusinessLayer\\Service\\TokenService.cs",
+              "ToolTip": "C:\\Users\\vpush\\Downloads\\HelloApp\\repos\\BusinessLayer\\Service\\TokenService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAiwCQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T09:17:34.935Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

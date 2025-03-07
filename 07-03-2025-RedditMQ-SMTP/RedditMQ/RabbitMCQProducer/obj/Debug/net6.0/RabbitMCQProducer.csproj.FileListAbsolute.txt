@@ -1,0 +1,12 @@
+C:\Users\vpush\Downloads\HelloApp\repos\RabbitMCQProducer\obj\Debug\net6.0\RabbitMCQProducer.csproj.AssemblyReference.cache
+C:\Users\vpush\Downloads\HelloApp\repos\RabbitMCQProducer\obj\Debug\net6.0\RabbitMCQProducer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vpush\Downloads\HelloApp\repos\RabbitMCQProducer\obj\Debug\net6.0\RabbitMCQProducer.AssemblyInfoInputs.cache
+C:\Users\vpush\Downloads\HelloApp\repos\RabbitMCQProducer\obj\Debug\net6.0\RabbitMCQProducer.AssemblyInfo.cs
+C:\Users\vpush\Downloads\HelloApp\repos\RabbitMCQProducer\obj\Debug\net6.0\RabbitMCQProducer.csproj.CoreCompileInputs.cache
+C:\Users\vpush\Downloads\HelloApp\repos\RabbitMCQProducer\bin\Debug\net6.0\RabbitMCQProducer.deps.json
+C:\Users\vpush\Downloads\HelloApp\repos\RabbitMCQProducer\bin\Debug\net6.0\RabbitMCQProducer.dll
+C:\Users\vpush\Downloads\HelloApp\repos\RabbitMCQProducer\bin\Debug\net6.0\RabbitMCQProducer.pdb
+C:\Users\vpush\Downloads\HelloApp\repos\RabbitMCQProducer\obj\Debug\net6.0\RabbitMCQProducer.dll
+C:\Users\vpush\Downloads\HelloApp\repos\RabbitMCQProducer\obj\Debug\net6.0\refint\RabbitMCQProducer.dll
+C:\Users\vpush\Downloads\HelloApp\repos\RabbitMCQProducer\obj\Debug\net6.0\RabbitMCQProducer.pdb
+C:\Users\vpush\Downloads\HelloApp\repos\RabbitMCQProducer\obj\Debug\net6.0\ref\RabbitMCQProducer.dll
