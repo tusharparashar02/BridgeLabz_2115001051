@@ -84,3 +84,5 @@ This repository contains the daily progress and tasks completed as part of my .N
 - Go through and Implement Redis in current UserRegistration project.
 ### March 07, 2025
 - Go through and Implement RedditMQ and STMP. 
+### March 10, 2025
+- Starting New Project Address Book Management System.
