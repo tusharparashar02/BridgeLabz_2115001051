@@ -88,3 +88,5 @@ This repository contains the daily progress and tasks completed as part of my .N
 - Starting New Project Address Book Management System.
 ### March 17, 2025
 - Starting Frontend with JS Programming Constructs.
+### March 18, 2025
+- Practice some DS Question on Arrays and Map in JS.
