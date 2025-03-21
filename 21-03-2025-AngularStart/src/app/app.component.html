@@ -1,0 +1,19 @@
+<div style="text-align: center; margin-top: 50px;">
+  <!-- UC1: Interpolation -->
+  <h1>{{ title }}</h1>
+
+  <!-- UC2: Property Binding -->
+  <img [src]="imgUrl" alt="BridgeLabz Logo" width="200">
+
+  <!-- UC3: Event Binding -->
+  <p>
+    <button (click)="openBridgeLabz()">Go to BridgeLabz</button>
+  </p>
+
+  <!-- UC4: Two-Way Data Binding -->
+  <input type="text" [(ngModel)]="userName" (input)="validateUser()" placeholder="Enter your name">
+  <h2 *ngIf="userName && !errorMessage">Hello from BridgeLabz, {{ userName }}</h2>
+
+  <!-- UC5: Validation for user input -->
+  <p *ngIf="errorMessage" style="color: red;">{{ errorMessage }}</p>
+</div>
